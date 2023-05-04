@@ -6,7 +6,5 @@ https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 
 Data structures/names may be slightly altered from the original
 
--simplydrivingtheory (Sam Harris) does not own or own the right to these images
--for any querys contact through our webiste
-
+I do not own or own the right to these images
 Last updated 27/04/2023
