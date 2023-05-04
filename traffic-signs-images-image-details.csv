@@ -1,0 +1,659 @@
+﻿File Directory,Category,Description,Shape,BGColour,BDColour,Text,Symbol1,Symbol2,DGNo,JPG
+bus-and-cycle-signs,Bus and cycle signs,Route for use by buses and cycles only,Circular,Blue,White,None,Cycle/Motorcycle,Bus,953,953+953.2.jpg
+bus-and-cycle-signs,Bus and cycle signs,Route for use by buses and tramcars only,Circular,Blue,White,None,Vehicle (Car/Tram/Truck),None,953.1,953.1V.jpg
+bus-and-cycle-signs,Bus and cycle signs,Buses prohibited,Circular,White,Red,None,Bus,None,952,952.jpg
+bus-and-cycle-signs,Bus and cycle signs,"Route for use by buses, pedal cycles and taxis only",Circular,Blue,White,None,Cycle/Motorcycle,Bus,953,953.jpg
+bus-and-cycle-signs,Bus and cycle signs,With-flow bus lane which pedal cycles and taxis may also use ahead,Rectangular,Blue,White,None,Bus,Cycle/Motorcycle,959,958.jpg
+bus-and-cycle-signs,Bus and cycle signs,Appropriate traffic lanes for different manoeuvres at a junction after a break in a bus lane,Rectangular,White,Grey/Black,Bus,Arrow,Arrow,877,877L.jpg
+bus-and-cycle-signs,Bus and cycle signs,Contra-flow bus lane which pedal cycles may also use with traffic approaching from the right (reminder for pedestrians),Rectangular,Blue,White,Bus,Bus,Cycle/Motorcycle,963.2,963.2.jpg
+bus-and-cycle-signs,Bus and cycle signs,Bus lane with traffic proceeding from both ways  (reminder for pedestrians),Rectangular,Blue,White,Bus,Bus,None,963,963T.jpg
+bus-and-cycle-signs,Bus and cycle signs,Bus lane on road at junction ahead,Rectangular,White,Grey/Black,Bus,Bus,Arrow,962,962.jpg
+bus-and-cycle-signs,Bus and cycle signs,Contra-flow bus lane,Rectangular,Blue,White,None,Bus,Arrow,960,960.jpg
+bus-and-cycle-signs,Bus and cycle signs,End of bus lane,Rectangular,Blue,White,Bus,None,None,964,964.jpg
+bus-and-cycle-signs,Bus and cycle signs,Parking place for buses,Rectangular,White,Grey/Black,None,Parking [P],Bus,969,969.jpg
+bus-and-cycle-signs,Bus and cycle signs,Stopping place for buses used for carrying tourists to allow passengers to take photographs,Rectangular,Brown,White,Number (Other),Bus,None,972,972.jpg
+bus-and-cycle-signs,Bus and cycle signs,Place where buses may stand and the stopping of other vehicles is prohibited during the period indicated,Rectangular,Yellow,Grey/Black,Bus,Other,None,975,975.jpg
+bus-and-cycle-signs,Bus and cycle signs,Stopping place for buses,Rectangular,White,Grey/Black,Bus,Bus,None,970,970.jpg
+bus-and-cycle-signs,Bus and cycle signs,"Entrance to bus station, depot or garage",Rectangular,Blue,White,Bus,None,None,953.3,953.3.jpg
+bus-and-cycle-signs,Bus and cycle signs,"Exemptions for buses, taxis and pedal cycles from restriction or prohibition conveyed by associated sign",Rectangular,White,Grey/Black,Bus,None,None,954.3,954.3.jpg
+bus-and-cycle-signs,Bus and cycle signs,Buses excluded from restriction or prohibition conveyed by associated sign,Rectangular,White,Grey/Black,Bus,None,None,954,954.jpg
+bus-and-cycle-signs,Bus and cycle signs,Cycles excluded from restriction or prohibition conveyed by associated sign,Rectangular,White,Grey/Black,Cycle,None,None,954.4,954.4.jpg
+bus-and-cycle-signs,Bus and cycle signs,Local buses excluded from restriction or prohibition conveyed by associated sign,Rectangular,White,Grey/Black,Bus,None,None,954.2,954.2.jpg
+bus-and-cycle-signs,Bus and cycle signs,Stopping by vehicles other than buses prohibited during the period indicated,Rectangular,Yellow,Grey/Black,Bus,Other,None,974,974.jpg
+bus-and-cycle-signs,Bus and cycle signs,Contra-flow cycle lane,Rectangular,Blue,White,None,Cycle/Motorcycle,Arrow,960.1,960.1.jpg
+bus-and-cycle-signs,Bus and cycle signs,Cycle lane on road at junction ahead or cycle track crossing road,Rectangular,White,Grey/Black,Cycle,Arrow,Cycle/Motorcycle,962.1,962.1.jpg
+bus-and-cycle-signs,Bus and cycle signs,Cycle lane with traffic approaching from both ways (pedestrian reminder),Rectangular,Blue,White,Cycle,Cycle/Motorcycle,None,963.1,963.1T.jpg
+bus-and-cycle-signs,Bus and cycle signs,Cycle lane with traffic proceeding from left (pedestrian reminder),Rectangular,Blue,White,Cycle,Cycle/Motorcycle,None,963.1,963.1L.jpg
+bus-and-cycle-signs,Bus and cycle signs,Cycle lane with traffic proceeding from right (pedestrian reminder),Rectangular,Blue,White,Cycle,Cycle/Motorcycle,None,963.1,963.1.jpg
+bus-and-cycle-signs,Bus and cycle signs,Route recommended for pedal cycles on the main carriageway of a road,Rectangular,Blue,White,None,Cycle/Motorcycle,None,967,967.jpg
+bus-and-cycle-signs,Bus and cycle signs,"End of cycle lane, track or route",Rectangular,Blue,White,Other,Cycle/Motorcycle,None,965,965.jpg
+bus-and-cycle-signs,Bus and cycle signs,With-flow cycle lane,Rectangular,Blue,White,None,Cycle/Motorcycle,None,959.1,959.1.jpg
+bus-and-cycle-signs,Bus and cycle signs,With-flow cycle lane ahead,Rectangular,Blue,White,None,Cycle/Motorcycle,None,958.1,958.1.jpg
+bus-and-cycle-signs,Bus and cycle signs,Testing of child cyclists ahead,Rectangular,White,Grey/Black,Cycle,None,None,950.1,950.1.jpg
+bus-and-cycle-signs,Bus and cycle signs,Training of child cyclists ahead,Rectangular,White,Grey/Black,Cycle,None,None,950.1,950.1VCT.jpg
+bus-and-cycle-signs,Bus and cycle signs,Cycle event ahead,Rectangular,White,Grey/Black,Cycle,None,None,950.1,950.1VCE.jpg
+bus-and-cycle-signs,Bus and cycle signs,Cycle route ahead warning,Triangular,White,Red,None,Cycle/Motorcycle,None,950,950.jpg
+bus-and-cycle-signs,Bus and cycle signs,Cycles crossing ahead,Rectangular,White,Grey/Black,Cycle,None,None,950.1,950.1VCC.jpg
+bus-and-cycle-signs,Bus and cycle signs,"Cyclists to dismount at the end if, or at a break in, a cycle lane, track or route",Rectangular,Blue,White,Cycle,None,None,966,966.jpg
+bus-and-cycle-signs,Bus and cycle signs,Riding of pedal cycles prohibited,Circular,White,Red,None,Cycle/Motorcycle,None,951,951.jpg
+bus-and-cycle-signs,Bus and cycle signs,No through road for vehicular traffic,Rectangular,Blue,White,None,Other,None,816,816.jpg
+bus-and-cycle-signs,Bus and cycle signs,Parking place for pedal cycles,Rectangular,White,Grey/Black,None,Parking [P],Cycle/Motorcycle,968.1,968.1.jpg
+bus-and-cycle-signs,Bus and cycle signs,Route for use by pedal cycles only,Circular,Blue,White,None,Cycle/Motorcycle,None,955,955.jpg
+bus-and-cycle-signs,Bus and cycle signs,Route comprising a separated track and path for cycles and pedestrians,Circular,Blue,White,None,Cycle/Motorcycle,Pedestrian,957,957.jpg
+bus-and-cycle-signs,Bus and cycle signs,Route for use by pedal cycles and pedestrians only,Circular,Blue,White,None,Cycle/Motorcycle,Pedestrian,956,956.jpg
+bus-and-cycle-signs,Bus and cycle signs,Route comprising a separated track and path for cycles and pedestrians,Circular,Blue,White,None,Cycle/Motorcycle,Pedestrian,957,957R.jpg
+bus-and-cycle-signs,Bus and cycle signs,Parking place for pedal cycles,Rectangular,White,Grey/Black,None,Parking [P],Cycle/Motorcycle,968,968.jpg
+direction-and-tourist-signs,Direction and tourist signs,100 yards to a roundabout or the next point at which traffic may leave a primary route,Rectangular,Blue,White,None,Other,Other,823,825V.jpg
+direction-and-tourist-signs,Direction and tourist signs,100 yards to a roundabout or the next point at which traffic may leave a non-primary route,Rectangular,Blue,White,None,Other,Other,823,825VR.jpg
+direction-and-tourist-signs,Direction and tourist signs,200 yards to a roundabout or the next point at which traffic may leave a primary route,Rectangular,Blue,White,None,Other,Other,824,824V.jpg
+direction-and-tourist-signs,Direction and tourist signs,200 yards to a roundabout or the next point at which traffic may leave a non-primary route,Rectangular,Blue,White,None,Other,Other,824,824VR.jpg
+direction-and-tourist-signs,Direction and tourist signs,300 yards to a roundabout or the next point at which traffic may leave a primary route,Rectangular,Blue,White,None,Other,Other,825,823V.jpg
+direction-and-tourist-signs,Direction and tourist signs,300 yards to a roundabout or the next point at which traffic may leave a non-primary route,Rectangular,Blue,White,None,Other,Other,825,823VR.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: beach,Rectangle,Brown,Brown,None,Other,Other,0,T118.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: bird garden,Rectangle,Brown,Brown,None,Other,Other,0,T113.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: castle of historic or architectural interest,Rectangle,Brown,Brown,None,Other,Other,0,T2.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: country park,Rectangle,Brown,Brown,None,Other,Other,0,T112.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England only: property in the care of English heritage,Rectangle,Brown,Brown,None,Other,Other,0,T202.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: farm park,Rectangle,Brown,Brown,None,Other,Other,0,T119.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to tourist attraction indicated by a symbol,Rectangular,Brown,White,None,Vehicle (Car/Tram/Truck),Arrow,2208,2208.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: House of historic or architectural importance,Rectangle,Brown,Brown,None,Other,Other,0,T3.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction and distance to a tourist attraction,Rectangular,Brown,White,Number (Distance),Arrow,None,2203,2203.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England only : museum or art gallery,Rectangle,Brown,Brown,None,Other,Other,0,T203.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: national Trust property,Rectangle,Brown,Brown,None,Other,Other,0,T101.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: nature reserve,Rectangle,Brown,Brown,None,Other,Other,0,T115.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: site with Roman remains,Rectangle,Brown,Brown,None,Other,Other,0,T127.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: safari park,Rectangle,Brown,Brown,None,Other,Other,0,T153.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: peasure or theme park,Rectangle,Brown,Brown,None,Other,Other,0,T114.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: tourist Information Point or Centre,Rectangle,Brown,Brown,None,Other,Other,0,T1.jpg
+direction-and-tourist-signs,Direction and tourist signs,Junction ahead leading to a tourist attraction,Rectangular,Brown,White,Number (Distance),Animal,Arrow,2202,2202.jpg
+direction-and-tourist-signs,Direction and tourist signs,Historic castle tourist attraction 10 miles ahead,Rectangular,Brown,White,Number (Distance),Other,None,2209,2209.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist attraction ahead is closed,Rectangular,Brown,White,Number (Distance),Other,None,2209,2209V.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: cricket ground,Rectangle,Brown,Brown,None,Other,Other,0,T137.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: cycle hire,Rectangle,Brown,Brown,None,Other,Other,0,T142.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England only: Tourist attraction recognised by a regional tourist board or the English Tourist Board,Rectangle,Brown,Brown,None,Other,Other,0,T201.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: fishing,Rectangle,Brown,Brown,None,Other,Other,0,T140.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: football ground,Rectangle,Brown,Brown,None,Other,Other,0,T138.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: golf course,Rectangle,Brown,Brown,None,Other,Other,0,T134.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: motor sport,Rectangle,Brown,Brown,None,Other,Other,0,T136.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: race course,Rectangle,Brown,Brown,None,Other,Other,0,T135.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for Scotland only: tourist attraction recognised by 'VisitScotland',Rectangle,Brown,Brown,None,Other,Other,0,T301.1.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: ski slope,Rectangle,Brown,Brown,None,Other,Other,0,T148.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England only: sports centre,Rectangle,Brown,Brown,None,Other,Other,0,T204.jpg
+direction-and-tourist-signs,Direction and tourist signs,Steam railway tourist attraction 100 yards ahead,Rectangular,Brown,White,Number (Distance),Vehicle (Car/Tram/Truck),None,2201,2201.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for England and Wales: ten pin bowling,Rectangle,Brown,Brown,None,Other,Other,0,T149.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction along a route passing through places of interest recognised by a regional tourist board or the English tourist board,Rectangular,Brown,White,Other,Arrow,Rose (Tourist Attraction),2212,2212.jpg
+direction-and-tourist-signs,Direction and tourist signs,Tourist symbol for Wales only: Tourist attraction recognised by the Welsh tourist board,Rectangle,Brown,Brown,None,Other,Other,0,T401.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to services with details of the services provided,Rectangular,White,Grey/Black,Other,Arrow,Other,2313.2,2313.2.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction and distance to a Tourist Information point or centre,Rectangular,Brown,White,Number (Distance),Arrow,None,2204,2204.jpg
+direction-and-tourist-signs,Direction and tourist signs,"Distance ahead to services, with details of the services provided",Rectangular,White,Grey/Black,Number (Distance),Other,Other,2313.1,2313.1.jpg
+direction-and-tourist-signs,Direction and tourist signs,Location of a Tourist information point or centre,Rectangular,Brown,White,Other,Other,None,2205,2205.jpg
+direction-and-tourist-signs,Direction and tourist signs,Entrance or junction ahead to services,Rectangular,White,Grey/Black,Other,Arrow,None,2314.2,2314.2.jpg
+direction-and-tourist-signs,Direction and tourist signs,Entrance or direction to services,Rectangular,White,Grey/Black,Other,Arrow,None,2314.1,2314.1.jpg
+direction-and-tourist-signs,Direction and tourist signs,Camping and caravan site 300 yards ahead,Rectangular,Brown,White,Number (Distance),Vehicle (Car/Tram/Truck),None,2301,2301.jpg
+direction-and-tourist-signs,Direction and tourist signs,Camping and caravan site 300 yards in the direction indicated,Rectangular,Brown,White,Number (Distance),Vehicle (Car/Tram/Truck),Arrow,2302,2302.jpg
+direction-and-tourist-signs,Direction and tourist signs,"Distance ahead to parking place with a Tourist Information Point, picnic site, public telephone, public toilets and viewpoint",Rectangular,Brown,White,Number (Distance),Parking [P],Other,2307,2307.jpg
+direction-and-tourist-signs,Direction and tourist signs,Directions to different types of parking place from a junction ahead,Rectangular,White,Grey/Black,Other,Arrow,Parking [P],2505,2505.jpg
+direction-and-tourist-signs,Direction and tourist signs,Picnic area 150 yards ahead,Rectangular,Brown,White,Number (Distance),Pedestrian,Other,2305,2305.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction and distance to picnic area,Rectangular,Brown,White,Number (Distance),Other,Pedestrian,2306,2306.jpg
+direction-and-tourist-signs,Direction and tourist signs,Managed youth hostel 1 mile ahead,Rectangular,Brown,White,Number (Distance),Other,None,2303,2303.jpg
+direction-and-tourist-signs,Direction and tourist signs,Youth hostel 200 yards in the direction indicated,Rectangular,Brown,White,Number (Distance),Arrow,Other,2304,2304.jpg
+direction-and-tourist-signs,Direction and tourist signs,Distance to a commercial vehicles parking place ahead with public toilets and telephones,Rectangular,White,Grey/Black,Number (Distance),Parking [P],Other,2502,2502.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to a lorry park via a U-turn at a roundabout ahead,Rectangular,White,Grey/Black,None,Parking [P],Vehicle (Car/Tram/Truck),2510,2510.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction and distance to a multi-storey parking place,Rectangular,White,Grey/Black,Number (Distance),Parking [P],Arrow,2508,2508.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to a parking place available only on the day specified,Rectangular,White,Grey/Black,Other,Parking [P],Arrow,2507,2507.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to a parking place for shoppers and showing the total number of spaces,Rectangular,White,Grey/Black,Other,Arrow,Parking [P],2506,2506.jpg
+direction-and-tourist-signs,Direction and tourist signs,General directions to different types of parking place,Rectangular,White,Grey/Black,Other,Parking [P],Arrow,2505.1,2505.1.jpg
+direction-and-tourist-signs,Direction and tourist signs,Junction ahead leading to a destination advised for goods vehicles,Rectangular,Grey/Black,White,Other,Vehicle (Car/Tram/Truck),Arrow,2805,2805.jpg
+direction-and-tourist-signs,Direction and tourist signs,Junction ahead leading to route advised for goods vehicles,Rectangular,Grey/Black,White,Other,Vehicle (Car/Tram/Truck),Arrow,2805,2805V.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to destination shown of route advised for goods vehicles,Rectangular,Grey/Black,White,Other,Arrow,Vehicle (Car/Tram/Truck),2806,2806.jpg
+direction-and-tourist-signs,Direction and tourist signs,Distance and direction to a parking place ahead from which a 'Park and Ride' scheme operates,Rectangular,White,Grey/Black,Number (Distance),Parking [P],Vehicle (Car/Tram/Truck),2503,2503.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to a parking place from which a 'Park and Ride' scheme operates,Rectangular,White,Grey/Black,Other,Parking [P],Vehicle (Car/Tram/Truck),2504,2504R.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to a parking place from which a 'Park and Ride' scheme operates,Rectangular,White,Grey/Black,Other,Parking [P],Vehicle (Car/Tram/Truck),2504,2504T.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to a parking place from which a 'Park and Ride' scheme operates,Rectangular,White,Grey/Black,Other,Parking [P],Vehicle (Car/Tram/Truck),2504,2504P.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction of temporary diversion route from junction ahead,Rectangular,Yellow,Grey/Black,Other,Arrow,None,2703,2703V.jpg
+direction-and-tourist-signs,Direction and tourist signs,Diversion route symbol: circular,Rectangle,Yellow,Grey.black,None,other,None,0,S56K.jpg
+direction-and-tourist-signs,Direction and tourist signs,Diversion route symbol: square,Rectangle,Yellow,Grey.black,None,other,None,0,S56C.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction of temporary diversion route,Rectangle,Yellow,Grey.black,None,other,None,0,2704V.jpg
+direction-and-tourist-signs,Direction and tourist signs,Diversion route symbol: Triangular,Rectangle,Yellow,Grey.black,None,other,None,0,S56G.jpg
+direction-and-tourist-signs,Direction and tourist signs,Start of temporary diversion route to the left,Rectangular,Yellow,Grey/Black,Other,Arrow,None,2702,2702L.jpg
+direction-and-tourist-signs,Direction and tourist signs,Start of temporary diversion route to the right,Rectangular,Yellow,Grey/Black,Other,Arrow,None,2702,2702.jpg
+direction-and-tourist-signs,Direction and tourist signs,End of temporary diversion route,Rectangular,Yellow,Grey/Black,Other,Arrow,None,2702,2702V.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction of temporary diversion route from junction ahead,Rectangular,Yellow,Grey/Black,Other,Arrow,None,2703,2703.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction of temporary diversion route,Rectangular,Yellow,Grey/Black,Other,Arrow,None,2704,2704.jpg
+direction-and-tourist-signs,Direction and tourist signs,"Junction ahead leading to a temporary diversion route, follow symbolic route",Rectangular,Yellow,Grey/Black,Other,Arrow,Other,2716,2716.jpg
+direction-and-tourist-signs,Direction and tourist signs,Roundabout ahead leading to a temporary diversion route to the destination shown,Rectangular,Yellow,Grey/Black,Other,Arrow,None,2706,2706.jpg
+direction-and-tourist-signs,Direction and tourist signs,Junction ahead of a primary route with non-primary route through a town or village that has been by-passed,Rectangular,Green,White,Number (Route),Arrow,None,2025,2025.jpg
+direction-and-tourist-signs,Direction and tourist signs,Junction ahead leading to a car ferry,Rectangular,White,Grey/Black,None,Arrow,Vehicle (Car/Tram/Truck),2135,2135.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to a vehicle ferry,Rectangular,White,Grey/Black,None,Arrow,Vehicle (Car/Tram/Truck),2136,2136.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to public toilets with facilities for disabled people,Rectangular,White,Grey/Black,None,Arrow,Other,2323,2323.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to Vehicle and Operator Services Agency testing station for goods vehicles,Rectangular,White,Grey/Black,Other,Arrow,Other,2802,2802.jpg
+direction-and-tourist-signs,Direction and tourist signs,Junction ahead leading to a London underground railway station,Rectangular,White,Grey/Black,Other,Arrow,TFL Tube / Rail,2133,2133.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to a public telephone,Rectangular,White,Grey/Black,Other,Arrow,Other,2322,2322.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to a public telephone,Rectangular,White,Grey/Black,Other,Arrow,Other,2322,2322R.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to a shopping area which provides a shopmobility service for disabled people,Rectangular,White,Grey/Black,None,Arrow,Other,2137,2137.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction ahead leading to a route for emergency vehicles to an emergency services incident point,Rectangular,Green,Yellow,Other,Arrow,None,2710,2710.jpg
+direction-and-tourist-signs,Direction and tourist signs,Junction ahead leading to a route for emergency vehicles to a temporary incident control point,Rectangular,Red,White,Other,Arrow,None,2708,2708.jpg
+direction-and-tourist-signs,Direction and tourist signs,Junction ahead leading to a route for emergency vehicles to a temporary incident control point,Rectangular,Red,White,Other,Arrow,None,2708,2708R.jpg
+direction-and-tourist-signs,Direction and tourist signs,Additional traffic lane joining from the left ahead (non-primary routes),Rectangular,white,White,None,Arrow,None,874,868N.jpg
+direction-and-tourist-signs,Direction and tourist signs,Additional traffic lane joining from the left in 200 yards. Traffic on main carriageway had priority over joining traffic from the right hand lane of the slip road (primary routes),Rectangular,Blue,White,None,Arrow,None,873,873+876P.jpg
+direction-and-tourist-signs,Direction and tourist signs,Direction to a new housing development,Rectangular,Yellow,Grey/Black,Other,Arrow,Other,2701,2701.jpg
+direction-and-tourist-signs,Direction and tourist signs,Additional traffic joining from the left ahead (non-primary route),Rectangular,white,White,None,Arrow,None,874,868.1N.jpg
+direction-and-tourist-signs,Direction and tourist signs,Additional traffic lanes joining from the right ahead. Traffic in the right hand lane joins the main carriageway. Traffic on the main carriageway has priority over joining traffic (primary route),Rectangular,white,White,None,Arrow,None,874,874P.jpg
+information-signs,Information signs,Distance of 2 miles to a section of dual carriageway ahead,Rectangular,Blue,White,Number (Distance),None,None,818.1,818.1.jpg
+information-signs,Information signs,Section of dual carriageway road begins ahead,Rectangular,Blue,White,Other,None,None,818,818.jpg
+information-signs,Information signs,Distance of 1/2 mile of dual carriageway road extends ahead,Rectangular,Blue,White,Number (Distance),None,None,818.11,818.1A.jpg
+information-signs,Information signs,No through road for vehicular traffic in direction indicated from junction ahead,Rectangular,Blue,White,None,Other,None,817,817.jpg
+information-signs,Information signs,No through road for vehicular traffic in direction indicated from junction ahead,Rectangular,Blue,White,None,Other,None,817,817V.jpg
+information-signs,Information signs,Number of lanes of traffic lanes ahead on a dual carriageway reduces from three lanes to two. Traffic in the right hand lane must move into the lane on the immediate left,Rectangular,White,Grey/Black,None,Arrow,None,872.1,872.1.jpg
+information-signs,Information signs,Passing place on a narrow road,Rectangular,White,Grey/Black,Other,None,None,822,822.jpg
+information-signs,Information signs,Number of lanes of traffic lanes ahead on a primary route reduces from three lanes to two. Traffic in the right hand lane must move into the lane on the immediate left,Rectangular,White,Grey/Black,None,Arrow,None,872.1,872.1P.jpg
+information-signs,Information signs,"Route ahead only wide enough for one line of vehicles, but has passing places at intervals",Rectangular,Blue,White,Other,None,None,821,821.jpg
+information-signs,Information signs,Road unsuitable for articulated vehicles,Rectangular,Blue,White,Vehicle,None,None,820,820V5.jpg
+information-signs,Information signs,Road unsuitable for caravans,Rectangular,Blue,White,Vehicle,None,None,820,820V1.jpg
+information-signs,Information signs,Road unsuitable for heavy goods vehicles,Rectangular,Blue,White,Vehicle,None,None,820,820V2.jpg
+information-signs,Information signs,Road unsuitable for long vehicles,Rectangular,Blue,White,Vehicle,None,None,820,820V4.jpg
+information-signs,Information signs,Road unsuitable for motor vehicles,Rectangular,Blue,White,Vehicle,None,None,820,820.jpg
+information-signs,Information signs,Road unsuitable for trailers,Rectangular,Blue,White,Vehicle,None,None,820,820V6.jpg
+information-signs,Information signs,Road unsuitable for wide vehicles,Rectangular,Blue,White,Vehicle,None,None,820,820V3.jpg
+information-signs,Information signs,Distance to a parking place ahead,Rectangular,Blue,White,Number (Distance),Parking [P],Other,2501,2501.jpg
+information-signs,Information signs,Emergency telephone in a parking place,Rectangular,Blue,White,Number (Distance),Parking [P],Other,2713.1,2713.1VP.jpg
+information-signs,Information signs,Distance ahead to emergency telephone in a parking place,Rectangular,Blue,White,Number (Distance),Parking [P],Other,2713.1,2713.1.jpg
+information-signs,Information signs,Emergency telephone ahead,Rectangular,Blue,White,Number (Distance),Parking [P],Other,2713.1,2713.1V.jpg
+information-signs,Information signs,Emergency telephone 1 mile ahead,Rectangular,Blue,White,Number (Distance),Parking [P],Other,2713.1,2713.1VT.jpg
+information-signs,Information signs,Direction to emergency exit for pedestrians from a tunnel,Rectangular,Green,Yellow,None,Pedestrian,Arrow,2711,2711.jpg
+information-signs,Information signs,Direction to emergency exit for pedestrians from a tunnel,Rectangular,Green,Yellow,None,Pedestrian,Arrow,2711,2711L.jpg
+information-signs,Information signs,Hospital ahead with accident and emergency facilities,Rectangular,Red,White,Number (Other),Other,None,827.2,827.2.jpg
+information-signs,Information signs,Hospital ahead without accident and emergency facilities,Rectangular,Blue,White,Other,Other,None,827.1,827.1.jpg
+information-signs,Information signs,One-way traffic in direction indicated (sign for pedestrians),Rectangular,Blue,White,Other,Arrow,None,810,810L.jpg
+information-signs,Information signs,One-way traffic in direction indicated (sign for pedestrians),Rectangular,Blue,White,Other,Arrow,None,810,810.jpg
+information-signs,Information signs,Ramped entrance to pedestrian overbridge,Rectangular,Blue,White,None,Pedestrian,Other,814.4,814.4.jpg
+information-signs,Information signs,Ramped entrance to pedestrian subway,Rectangular,Blue,White,None,Pedestrian,Other,814.2,814.2.jpg
+information-signs,Information signs,Stepped entrance to pedestrian overbridge,Rectangular,Blue,White,None,Pedestrian,Other,814.3,814.3.jpg
+information-signs,Information signs,Stepped entrance to pedestrian subway,Rectangular,Blue,White,None,Pedestrian,None,814.1,814.1.jpg
+information-signs,Information signs,Goods vehicles should leave the main carriageway on the approach to a vehicle check point,Rectangular,Yellow,Grey/Black,Vehicle,Arrow,None,832.8,832.8.jpg
+information-signs,Information signs,Direction to a vehicle check point,Rectangular,Yellow,Grey/Black,Other,Arrow,None,832.9,832.9.jpg
+information-signs,Information signs,End of vehicle check point area,Rectangular,Yellow,Grey/Black,Other,None,None,832.101,832.10A.jpg
+information-signs,Information signs,Goods vehicles may be directed to enter a check point ahead,Rectangular,Yellow,Grey/Black,Other,Vehicle (Car/Tram/Truck),None,832.4,832.4.jpg
+information-signs,Information signs,Goods vehicles and buses may be directed to enter a check point ahead,Rectangular,Yellow,Grey/Black,Other,Vehicle (Car/Tram/Truck),None,832.4,832.4V.jpg
+information-signs,Information signs,Goods vehicles should get into the left lane to attend a goods vehicle check point ahead,Rectangular,Yellow,Grey/Black,Vehicle,Vehicle (Car/Tram/Truck),Arrow,832.6,832.6.jpg
+information-signs,Information signs,Goods vehicles should get into the left hand lane of a three lane carriageway on the approach to a goods vehicle check point,Rectangular,Yellow,Grey/Black,Vehicle,Vehicle (Car/Tram/Truck),Arrow,832.7,832.7.jpg
+information-signs,Information signs,Goods vehicles may be directed to stop ahead by a constable in uniform,Rectangular,Blue,White,Vehicle,None,None,830.2,830.2.jpg
+information-signs,Information signs,Goods vehicles should keep to the left hand lane on approach to check point ahead,Rectangular,Yellow,Grey/Black,Other,Vehicle (Car/Tram/Truck),None,832.5,832.5.jpg
+information-signs,Information signs,Goods vehicles may be directed to leave the motorway at the junction ahead,Rectangular,Yellow,Grey/Black,Other,Vehicle (Car/Tram/Truck),None,832.3,832.3.jpg
+information-signs,Information signs,Goods vehicles and buses may be directed to leave the motorway at the junction ahead,Rectangular,Yellow,Grey/Black,Other,Vehicle (Car/Tram/Truck),None,832.3,823.3V.jpg
+information-signs,Information signs,Waiting place at a lay-by or observation platform for police vehicles only,Rectangular,Blue,White,Vehicle,None,None,829.6,829.6.jpg
+information-signs,Information signs,Accident ahead and consequent need to proceed with caution,Rectangular,Blue,White,Other,None,None,829.2,829.2.jpg
+information-signs,Information signs,End of temporary permission for traffic to use the hard shoulder,Rectangular,Blue,White,Other,None,None,829.4,829.4.jpg
+information-signs,Information signs,Potential danger temporarily ahead and consequent need to proceed with caution,Rectangular,Blue,White,Other,None,None,829.1,829.1.jpg
+information-signs,Information signs,Area where police carry out checks on the speed of vehicles,Rectangular,Blue,White,Other,None,None,829.5,829.5.jpg
+information-signs,Information signs,Traffic should use the hard shoulder in an emergency,Rectangular,Blue,White,Other,None,None,829.3,829.3.jpg
+information-signs,Information signs,Vehicle emissions check point ahead,Rectangular,Blue,White,Vehicle,Other,None,831.2,831.2V.jpg
+information-signs,Information signs,Vehicle excise licence check point ahead,Rectangular,Blue,White,Vehicle,Other,None,831.2,831.2.jpg
+information-signs,Information signs,Vehicle and Operator Services Agency check point ahead,Rectangular,Blue,White,Vehicle,None,None,832.11,832.1A.jpg
+information-signs,Information signs,Location of traffic survey,Rectangular,Blue,White,Other,None,None,832,832.jpg
+information-signs,Information signs,Vehicles may be directed to stop at a traffic survey ahead,Rectangular,Blue,White,Other,None,None,830.1,830.1.jpg
+information-signs,Information signs,"Entrance to a car park, private access road or property",Rectangular,Blue,White,Other,None,None,833,833.jpg
+information-signs,Information signs,Permanent change to the road layout ahead,Rectangular,Red,White,Other,None,None,7014,7014.jpg
+information-signs,Information signs,"Entry to a car park, private access road or property from a public road not allowed",Rectangular,Blue,White,Other,None,None,836,836.jpg
+information-signs,Information signs,"Exit from a car park, private access road or property from a public road not allowed",Rectangular,Blue,White,Other,None,None,835,835.jpg
+information-signs,Information signs,"Exit from a car park, private access road or property",Rectangular,Blue,White,Other,None,None,834,834.jpg
+information-signs,Information signs,Vehicles should reduce speed on approaching a traffic survey ahead,Rectangular,Blue,White,Other,None,None,831,831.jpg
+information-signs,Information signs,Vehicles must stop at a census traffic point,Rectangular,Blue,White,Other,None,None,830,830.jpg
+level-crossing-signs,Level crossing signs,Drivers of large or slow vehicles must stop and telephone before using an automatic railway or tramway crossing,Rectangular,Blue,White,Vehicle,None,None,784.1,784.1.jpg
+level-crossing-signs,Level crossing signs,Drivers of long low vehicles must telephone to obtain permission before using a railway or tramway level crossing,Rectangular,Blue,White,Vehicle,None,None,783,783.jpg
+level-crossing-signs,Level crossing signs,Electrified overhead cable ahead,Triangular,White,Red,None,Other,None,779,779.jpg
+level-crossing-signs,Level crossing signs,Risk of grounding at a railway or tramway level crossing or hump backed bridge,Triangular,White,Red,Other,Vehicle (Car/Tram/Truck),None,782,782.jpg
+level-crossing-signs,Level crossing signs,Level crossing with gate or barrier ahead,Triangular,White,Red,None,Other,None,770,770.jpg
+level-crossing-signs,Level crossing signs,Railway level crossing without gate or barrier ahead,Triangular,White,Red,None,Vehicle (Car/Tram/Truck),None,771,771.jpg
+level-crossing-signs,Level crossing signs,Safe height beneath electrified overhead cable ahead,Rectangular,White,Grey/Black,Number (Other),None,None,780.01,780A.jpg
+level-crossing-signs,Level crossing signs,Warning of light signals at a level crossing without a gate or barrier ahead,Rectangular,White,Grey/Black,Other,Other,None,773,773.jpg
+level-crossing-signs,Level crossing signs,Load gauge giving audible warning to drivers where vehicle exceeds safe height under electrified overhead cables,Other,White,Grey/Black,Other,Other,Other,781,781.jpg
+level-crossing-signs,Level crossing signs,"Level crossing ahead is crossed by more than one railway or tramway track, and more than one train or tramcar may pass over it in quick succession",Rectangular,White,Grey/Black,Other,None,None,777,777.jpg
+level-crossing-signs,Level crossing signs,Direction to emergency telephone or telephone at or near a railway or tramway level crossing,Rectangular,Yellow,Grey/Black,None,Arrow,Other,788,788.jpg
+level-crossing-signs,Level crossing signs,Light signal at level crossing for pedestrians,,,,,,,4006,4006.jpg
+level-crossing-signs,Level crossing signs,Site of emergency telephone or telephone at or near a railway or tramway level crossing,Rectangular,Yellow,Grey/Black,None,Other,None,787,787.jpg
+level-crossing-signs,Level crossing signs,New method of controlling traffic at a railway or tramway level crossing ahead,Rectangular,Red,White,Other,None,None,790,790.jpg
+level-crossing-signs,Level crossing signs,Countdown marker to railway or tramway level crossing,Rectangular,White,Grey/Black,None,Other,Other,789,789.2.jpg
+level-crossing-signs,Level crossing signs,Countdown marker to railway or tramway level crossing,Rectangular,White,Grey/Black,None,Other,Other,789,789.1.jpg
+level-crossing-signs,Level crossing signs,Countdown marker to railway or tramway level crossing,Rectangular,White,Grey/Black,None,Other,Other,789,789.jpg
+level-crossing-signs,Level crossing signs,"Place where drivers of large or slow, or long low vehicles should park near a level crossing while contacting the signal operator",Rectangular,White,Grey/Black,Other,None,None,786,786.jpg
+level-crossing-signs,Level crossing signs,Another train or tramcar may be about to pass over the level crossing,Circular,Red,White,Other,None,None,776,776.jpg
+level-crossing-signs,"Level crossing signs, Tram signs",Location of railway or tramway level crossing without a gate or barrier,Other,White,Red,None,Other,None,774,774.jpg
+level-crossing-signs,"Level crossing signs, Tram signs",Vehicular traffic must not stop within the area of a railway or tramway level crossing,Rectangular,White,Grey/Black,Other,None,None,775,775.jpg
+level-crossing-signs,Level crossing signs,Open railway level crossing without light signals,Rectangular,White,Grey/Black,None,Vehicle (Car/Tram/Truck),None,778,778.jpg
+low-bridge-signs,Low bridge signs,Vehicles exceeding 14'-6'' in height prohibited,Circular,White,Red,Number (Other),None,None,629.2,629.2.jpg
+low-bridge-signs,Low bridge signs,Vehicles exceeding height indicated are prohibited. Height is displayed in both metric and imperial units,Circular,White,Red,Number (Other),None,None,629.21,629.2A.jpg
+low-bridge-signs,Low bridge signs,Advance warning of a mandatory height restriction ahead,Rectangular,Blue,White,Number (Distance),Other,None,818.3,818.3.jpg
+low-bridge-signs,Low bridge signs,Maximum headroom of 14'-6'' at hazard ahead,Triangular,White,Red,Number (Other),Other,None,530,530.jpg
+low-bridge-signs,Low bridge signs,Maximum headroom of 4.4m at hazard ahead,Triangular,White,Red,Number (Other),Other,None,530,530M.jpg
+low-bridge-signs,Low bridge signs,High vehicles to use middle of road at arch bridge ahead,Rectangular,White,Grey/Black,Vehicle,None,None,531.2,531.2.jpg
+low-bridge-signs,Low bridge signs,Maximum headroom of 12'-6'' at arch bridge ahead,Triangular,White,Red,Number (Other),Other,Other,531.1,531.1.jpg
+low-bridge-signs,Low bridge signs,Maximum headroom of 3.8m at arch bridge ahead,Triangular,White,Red,Number (Other),Other,Other,531.1,531.1M.jpg
+low-bridge-signs,Low bridge signs,Reduced headroom over part of road due to overhanging building ahead,Rectangular,White,Grey/Black,Other,None,None,530.1,530.1.jpg
+miscellaneous,Miscellaneous,Road (congestion) charge zone reminder,Rectangle,White,Grey black,None,Congestino Charging,None,1,NS67.jpg
+motorway-signs,Motorway signs,"Direction to a motorway at the junction shown, indicating route number",Rectangular,Blue,White,Number (Route),Arrow,Other,2902.1,2902.1.jpg
+motorway-signs,Motorway signs,"Direction to a motorway at the junction shown, indicating route number and destination reached along the motorway",Rectangular,Blue,White,Number (Route),Arrow,Other,2902,2902.jpg
+motorway-signs,Motorway signs,Number of route reached from a motorway exit road,Rectangular,Blue,White,Number (Route),Arrow,Other,2910,2910.jpg
+motorway-signs,Motorway signs,Number of route reached from a motorway exit road,Rectangular,Blue,White,Number (Route),Arrow,Other,2910.1,2910.1.jpg
+motorway-signs,Motorway signs,100 yards to a roundabout or the next point at which traffic may leave a route,Rectangular,Blue,White,None,Other,Other,825,825.jpg
+motorway-signs,Motorway signs,200 yards to a roundabout or the next point at which traffic may leave a route,Rectangular,Blue,White,None,Other,Other,824,824.jpg
+motorway-signs,Motorway signs,300 yards to a roundabout or the next point at which traffic may leave a route,Rectangular,Blue,White,None,Other,Other,823,823.jpg
+motorway-signs,Motorway signs,"Motorway junction ahead, displaying the route number and destination reached by taking this route",Rectangular,Blue,White,Number (Route),Arrow,Other,2903,2903.jpg
+motorway-signs,Motorway signs,"Motorway junction, displaying route number and destination reached as well as destination reached by remaining on the motorway",Rectangular,Blue,White,Number (Route),Arrow,Other,2906,2906.jpg
+motorway-signs,Motorway signs,300 yards to a roundabout or the next point at which traffic may leave a route,Rectangular,Blue,White,None,Other,Other,823,823R.jpg
+motorway-signs,Motorway signs,200 yards to a roundabout or the next point at which traffic may leave a route,Rectangular,Blue,White,None,Other,Other,824,824R.jpg
+motorway-signs,Motorway signs,100 yards to a roundabout or the next point at which traffic may leave a route,Rectangular,Blue,White,None,Other,Other,825,825R.jpg
+motorway-signs,Motorway signs,Junction ahead with another motorway,Rectangular,Blue,White,Number (Route),Other,Other,2912,2912.jpg
+motorway-signs,Motorway signs,Additional traffic lane joining from the left ahead in 200 yards. Traffic on the main carriageway has priority over joining traffic,Rectangular,Blue,White,None,Arrow,None,873,873+876.jpg
+motorway-signs,Motorway signs,Additional traffic lanes joining from the right ahead. Traffic on the main carriageway has priority over joining traffic,Rectangular,Blue,White,None,Arrow,None,874,874.jpg
+motorway-signs,Motorway signs,Additional traffic lane joining from the left ahead,Rectangular,Green,White,None,Arrow,None,868.1,868.1M.jpg
+motorway-signs,Motorway signs,Additional traffic lane joining from the right ahead,Rectangular,Green,White,None,Arrow,None,868,868M.jpg
+motorway-signs,Motorway signs,Appropriate traffic lanes for different manoeuvres at a junction ahead,Rectangular,White,Grey/Black,Bus,Arrow,Arrow,877,877M.jpg
+motorway-signs,Motorway signs,Motorway junction ahead leading to a town or geographical area containing several tourist attractions and a Tourist Information Point or Centre,Rectangular,Brown,White,Other,None,None,2927,2927.jpg
+motorway-signs,Motorway signs,Roundabout ahead leading from a motorway exit slip road to the tourist attractions shown,Rectangular,Brown,White,Other,Other,Arrow,2925,2925.jpg
+motorway-signs,Motorway signs,Junction ahead from a motorway exit slip road to the tourist attractions shown,Rectangular,Brown,White,Number (Distance),Other,Arrow,2926,2924.jpg
+motorway-signs,Motorway signs,Junction ahead from a motorway exit slip road to the tourist attractions shown,Rectangular,Brown,White,Other,Other,Arrow,2924,2926.jpg
+motorway-signs,Motorway signs,Exit from a motorway at a junction ahead that should be used for a tourist attraction,Rectangular,Brown,White,Other,Other,Arrow,2927.1,2927.1.jpg
+motorway-signs,Motorway signs,Direction to a named service area and showing the name of the operator,Rectangular,Blue,White,Other,Arrow,None,2920.1,2920.1.jpg
+motorway-signs,Motorway signs,10 miles to the next motorway service area,Rectangular,Blue,White,Number (Distance),None,None,2918,2918.jpg
+motorway-signs,Motorway signs,Availability of motorway service areas ahead with distances,Rectangular,Blue,White,Number (Route),Other,Other,2917,2917V.jpg
+motorway-signs,Motorway signs,Availability of motorway service areas ahead with distances and names of operators,Rectangular,Blue,White,Number (Route),Other,Other,2917,2917.jpg
+motorway-signs,Motorway signs,Services are not available on motorway ahead,Rectangular,Blue,White,Number (Route),None,None,2330,2918.1.jpg
+motorway-signs,Motorway signs,Entrance to a motorway service area,Rectangular,Blue,White,Other,Arrow,Other,2921,2921.jpg
+motorway-signs,Motorway signs,Entrance to a motorway service area at a junction ahead on a motorway slip road,Rectangular,Blue,White,Other,Arrow,None,2921.1,2921.1.jpg
+motorway-signs,Motorway signs,Direction to the nearest emergency telephone on the same side of the road,Rectangular,White,Grey/Black,None,Arrow,None,2713,2713.jpg
+motorway-signs,Motorway signs,Route to be followed at a junction ahead on a motorway for destinations that are not otherwise shown on signs for that junction,Rectangular,Blue,White,Number (Route),Other,Other,2915,2915.jpg
+motorway-signs,Motorway signs,County boundary sign,Rectangular,Blue,White,Other,None,None,2928,2928.jpg
+motorway-signs,Motorway signs,Route number of the motorway with destinations and distances to places along or reached from that route,Rectangular,Blue,White,Number (Route),Other,Other,2911,2911.jpg
+motorway-signs,Motorway signs,No hard shoulder available for 400 yards,Rectangular,Blue,White,Number (Distance),None,None,820.1,820.1.jpg
+motorway-signs,Motorway signs,Entrance for works traffic only,Rectangular,Blue,White,Other,Arrow,None,2922,2922.jpg
+motorway-signs,Motorway signs,Drivers should check their distance from the vehicle in front,Rectangular,Blue,White,Other,None,None,2934,2934.jpg
+motorway-signs,Motorway signs,"Motorway junction ahead leading to a route advised for goods vehicles to the destination shown, which may differ from that for other traffic",Rectangular,Grey/Black,White,Other,Vehicle (Car/Tram/Truck),None,2929,2929.jpg
+motorway-signs,Motorway signs,Exit from a motorway junction ahead that should be used for a destination along the route advised for goods vehicles,Rectangular,Grey/Black,White,Number (Route),Vehicle (Car/Tram/Truck),None,2929.1,2929.1.jpg
+motorway-signs,Motorway signs,Drivers should keep a distance of two chevron markings from the vehicle in front,Rectangular,Blue,White,Other,Vehicle (Car/Tram/Truck),Other,2933,2933.jpg
+motorway-signs,Motorway signs,Drivers should keep their distance from the vehicle in front,Rectangular,Blue,White,Other,None,None,2934,2934V.jpg
+motorway-signs,Motorway signs,"End of motorway regulations, including the national speed limit in 1 mile",Rectangular,Blue,White,Number (Distance),Other,None,2930,2930.jpg
+motorway-signs,Motorway signs,"End of motorway regulations, including the national speed limit",Rectangular,Blue,White,None,Other,None,2931,2931.jpg
+motorway-signs,Motorway signs,"Entrance to motorway service area, or similar facility within the length of a motorway where motorway regulations cease to apply",Rectangular,Blue,White,Other,None,None,2932,2932.jpg
+motorway-signs,Motorway signs,Light signal conveying the prohibition that vehicular traffic may not use the lane below the sign (gantry-mounted),,,,,,,6031.1,6031.1.jpg
+motorway-signs,Motorway signs,Closure of one lane of a four lane carriageway ahead,,,,,,,6009,6009.jpg
+motorway-signs,Motorway signs,Closure of one lane of a three lane carriageway ahead,,,,,,,6006,6006.jpg
+motorway-signs,Motorway signs,Closure of right hand lane of a two lane carriageway ahead,,,,,,,6008,6008.jpg
+motorway-signs,Motorway signs,Closure of two lanes of a three lane carriageway ahead,,,,,,,6006.1,6006.1.jpg
+motorway-signs,Motorway signs,Temporary maximum speed of 50 miles per hour advised,,,,,,,6001,6001.jpg
+motorway-signs,Motorway signs,Closure of all lanes of a four lane carriageway ahead,,,,,,,6009.3,6009.3.jpg
+motorway-signs,Motorway signs,Closure of all lanes of a three lane carriageway ahead,,,,,,,6006.2,6006.2.jpg
+motorway-signs,Motorway signs,Closure of both lanes of a two lane carriageway ahead,,,,,,,6008.1,6008.1.jpg
+motorway-signs,Motorway signs,End of temporary restrictions indicated by previous signs,,,,,,,6012,6012.jpg
+motorway-signs,Motorway signs,Risk of fog ahead,,,,,,,6011,6011.jpg
+motorway-signs,Motorway signs,Risk of ice ahead,,,,,,,6011.1,6011.1.jpg
+motorway-signs,Motorway signs,Vehicular traffic must leave at next junction,,,,,,,6003,6003.jpg
+motorway-signs,Motorway signs,In 200 yards the number of lanes of traffic lanes ahead on a motorway reduces from three lanes to two. Traffic in the right hand lane must move into the lane on the immediate left,Rectangular,White,Grey/Black,None,Arrow,None,872.1,872.1M.jpg
+on-street-parking,On-street parking,Parking place for buses only during the times shown,Rectangular,White,Grey/Black,Number (Other),Parking [P],Other,661.1,661.1VB.jpg
+on-street-parking,On-street parking,Waiting prohibited except for loading and unloading during the period indicated,Rectangular,Yellow,Grey/Black,Number (Other),Arrow,None,639,639.jpg
+on-street-parking,On-street parking,Continuous prohibition on waiting except for loading and unloading for period indicated,Rectangular,Yellow,Grey/Black,Number (Other),None,Other,637.3,637.3.jpg
+on-street-parking,On-street parking,Continuous prohibition on loading and unloading,Rectangular,White,Grey/Black,Other,None,None,638,638.jpg
+on-street-parking,On-street parking,Continuous prohibition on waiting except for loading and unloading,Rectangular,Yellow,Grey/Black,Number (Other),None,Other,637.3,637.3V.jpg
+on-street-parking,On-street parking,Loading and unloading prohibited during the periods indicated and in the direction indicated,Rectangular,White,Grey/Black,Number (Other),Arrow,None,638.1,638.1.jpg
+on-street-parking,On-street parking,Continuous prohibition on loading and unloading,Rectangular,White,Grey/Black,Other,None,None,638,638R.jpg
+on-street-parking,On-street parking,"Waiting prohibited during the period and in the direction indicated (upper panel), and loading and unloading prohibited during the periods and in the direction indicated (lower panel)",Rectangular,Yellow,Grey/Black,Number (Other),Arrow,Other,640,640_peak.jpg
+on-street-parking,On-street parking,"Waiting prohibited during the period indicated (upper panel), and loading and unloading prohibited during the periods indicated (lower panel)",Rectangular,Yellow,Grey/Black,Number (Other),Arrow,Other,640,640_am_pm.jpg
+on-street-parking,On-street parking,"Waiting prohibited in the direction indicated (upper panel), and loading and unloading prohibited in the direction indicated (lower panel)",Rectangular,Yellow,Grey/Black,Number (Other),Arrow,Other,640,640_directions.jpg
+on-street-parking,On-street parking,"Waiting prohibited during the period and in the direction indicated (upper panel), and loading and unloading prohibited during the periods and in the direction indicated (lower panel)",Rectangular,Yellow,Grey/Black,Number (Other),Arrow,Other,640,640_times_arrows.jpg
+on-street-parking,On-street parking,Loading and unloading prohibited during the periods indicated,Rectangular,White,Grey/Black,Number (Other),Arrow,None,638.1,638.1NA.jpg
+on-street-parking,On-street parking,Loading and unloading prohibited during the periods and in the direction indicated,Rectangular,White,Grey/Black,Number (Other),Arrow,None,638.1,638.1R.jpg
+on-street-parking,On-street parking,Waiting prohibited except for loading and unloading during the times and in the direction indicated,Rectangular,Yellow,Grey/Black,Number (Other),Arrow,None,639,639TL.jpg
+on-street-parking,On-street parking,Waiting prohibited except for loading and unloading during the period indicated,Rectangular,Yellow,Grey/Black,Number (Other),Arrow,None,639,639NA.jpg
+on-street-parking,On-street parking,Waiting prohibited except for loading and unloading during the period and in the direction indicated,Rectangular,Yellow,Grey/Black,Number (Other),Arrow,None,639,639R.jpg
+on-street-parking,On-street parking,Parking for motorised caravans or caravans drawn by motor vehicles,Rectangular,White,Grey/Black,None,Vehicle (Car/Tram/Truck),None,804.3,804.3.jpg
+on-street-parking,On-street parking,Parking place for goods vehicles,Rectangular,White,Grey/Black,None,Vehicle (Car/Tram/Truck),None,804.1,804.1.jpg
+on-street-parking,On-street parking,Parking place for motor cars,Rectangular,White,Grey/Black,None,Vehicle (Car/Tram/Truck),None,804.2,804.2.jpg
+on-street-parking,On-street parking,"Free parking for motor cars only, with restrictions on length of waiting time and return period",Rectangular,White,Grey/Black,Number (Other),Parking [P],Other,661.1,661.1VC.jpg
+on-street-parking,On-street parking,"Free parking for motor cycles only, with restrictions on length of waiting time and return period",Rectangular,White,Grey/Black,Number (Other),Parking [P],Other,661.1,661.1VM.jpg
+on-street-parking,On-street parking,"Free parking for all vehicles, with restrictions on length of waiting time and return period",Rectangular,White,Grey/Black,Number (Other),Parking [P],Other,661.1,661.1.jpg
+on-street-parking,"On-street parking, Information signs",Parking place,Rectangular,Blue,White,None,Parking [P],None,801,801.jpg
+on-street-parking,On-street parking,Parking place for solo motor cycles,Rectangular,White,Grey/Black,None,Cycle/Motorcycle,None,804.4,804.4.jpg
+on-street-parking,On-street parking,Parking place reserved for disabled badge holders,Rectangular,White,Grey/Black,Other,Parking [P],Other,661.01,661A.jpg
+on-street-parking,On-street parking,Parking place reserved for doctor permit holders,Rectangular,White,Grey/Black,Other,Parking [P],None,660,660VD.jpg
+on-street-parking,On-street parking,'Pay and display' ticket-regulated parking place,Rectangular,White,Grey/Black,Other,Parking [P],Arrow,661.21,661.2A.jpg
+on-street-parking,On-street parking,Location of 'pay and display' ticket machine,Rectangular,White,Grey/Black,Other,Parking [P],None,661.31,661.3A.jpg
+on-street-parking,On-street parking,Parking place reserved for permit holders,Rectangular,White,Grey/Black,Other,Parking [P],None,660,660.jpg
+on-street-parking,On-street parking,Parking place reserved for resident permit holders during the time period indicated,Rectangular,White,Grey/Black,Other,Parking [P],None,660.3,660.3.jpg
+on-street-parking,On-street parking,Parking place reserved for resident permit holders,Rectangular,White,Grey/Black,Other,Parking [P],None,660,660VR.jpg
+on-street-parking,On-street parking,Parking place reserved for voucher parking during the period indicated,Rectangular,White,Grey/Black,Number (Other),Parking [P],Other,660.5,660.5.jpg
+on-street-parking,On-street parking,"Waiting prohibited during the period indicated (upper panel), and parking place reserved for doctor permit holders during the periods indicated (lower panel)",Rectangular,White,Grey/Black,Number (Other),Parking [P],Other,660.6,639.1B+660.6.jpg
+on-street-parking,On-street parking,"Waiting prohibited during the periods indicated (upper panel), loading prohibited during periods indicated (middle panel), and 'pay and display' ticket-regulated parking available during the period indicated with directions to ticket machine (Lower p",Rectangular,White,Grey/Black,Number (Other),Parking [P],Arrow,660.7,639.1B+660.7.jpg
+on-street-parking,On-street parking,"Waiting prohibited during the periods indicated (upper panel), and parking for all vehicles, with restrictions on length of waiting time and return period (lower panel)",Rectangular,Yellow,Grey/Black,Number (Other),Parking [P],None,639.12,639.1BV.jpg
+on-street-parking,On-street parking,Parking place for permit holders with limited waiting permitted by others at specified times,Rectangular,White,Grey/Black,Number (Other),Parking [P],Other,660.6,660.6V4T.jpg
+on-street-parking,On-street parking,Parking place for permit holders with limited waiting permitted by others at specified times,Rectangular,White,Grey/Black,Number (Other),Parking [P],Other,660.6,660.6V1T.jpg
+on-street-parking,On-street parking,Parking place for permit holders with limited waiting permitted by others at specified times,Rectangular,White,Grey/Black,Number (Other),Parking [P],Other,660.6,660.6V2T.jpg
+on-street-parking,On-street parking,End of area where vehicles may be parked partially on the verge or footway,Rectangular,Blue,White,None,Parking [P],Vehicle (Car/Tram/Truck),667.2,667.2.jpg
+on-street-parking,On-street parking,End of area where vehicles may be parked wholly on the verge or footway,Rectangular,Blue,White,None,Parking [P],Vehicle (Car/Tram/Truck),668.2,668.2.jpg
+on-street-parking,On-street parking,Vehicles may be parked partially on the verge or footway in marked bays,Rectangular,Blue,White,Number (Other),Parking [P],Vehicle (Car/Tram/Truck),667.1,667.1A.jpg
+on-street-parking,On-street parking,Vehicles may be parked partially on the verge or footway during the period indicated,Rectangular,Blue,White,Number (Other),Parking [P],Vehicle (Car/Tram/Truck),667.1,667.1.jpg
+on-street-parking,On-street parking,Vehicles may be parked partially on the verge or footway,Rectangular,Blue,White,Other,Parking [P],Vehicle (Car/Tram/Truck),667,667.jpg
+on-street-parking,On-street parking,Vehicles may be parked wholly on the verge or footway,Rectangular,Blue,White,None,Parking [P],Vehicle (Car/Tram/Truck),668,668.jpg
+on-street-parking,On-street parking,Bay reserved for loading and unloading by goods vehicles,Rectangular,White,Grey/Black,Other,Other,None,660.4,660.4G.jpg
+on-street-parking,On-street parking,Bay reserved for loading and unloading by goods vehicles during the period indicated,Rectangular,White,Grey/Black,Other,Other,None,660.4,660.4GT.jpg
+on-street-parking,On-street parking,"Bay reserved for loading and unloading by goods vehicles during the period indicated, and waiting prohibited during the period indicated",Rectangular,White,Grey/Black,Other,Other,None,660.4,939.1B+660.4GT.jpg
+on-street-parking,On-street parking,Bay reserved for loading and unloading,Rectangular,White,Grey/Black,Other,Other,None,660.4,660.4.jpg
+on-street-parking,On-street parking,Entrance to a controlled parking zone,Rectangular,White,Grey/Black,Zone,Other,None,663,663V1.jpg
+on-street-parking,On-street parking,Entrance to a controlled parking zone in operation during the period indicated,Rectangular,White,Grey/Black,Zone,Other,None,663,663.jpg
+on-street-parking,On-street parking,End of controlled or voucher parking zone,Rectangular,White,Grey/Black,Zone,Other,None,664,664.jpg
+on-street-parking,On-street parking,"Entrance to a controlled parking zone, with loading and unloading prohibited",Rectangular,White,Grey/Black,Zone,Other,None,663,663V2.jpg
+on-street-parking,On-street parking,Entrance to a disc and meter parking zone,Rectangular,White,Grey/Black,Zone,Other,None,663,663V3.jpg
+on-street-parking,On-street parking,Entrance to a disc parking zone,Rectangular,White,Grey/Black,Zone,Other,None,663,663V4.jpg
+on-street-parking,On-street parking,End of designated off-highway loading area in which waiting restriction apply,Rectangular,Yellow,Grey/Black,Other,Other,None,640.5,640.5.jpg
+on-street-parking,On-street parking,Entrance to a designated off-highway loading area in which waiting restrictions apply,Rectangular,Yellow,Grey/Black,Vehicle,Other,None,640.3,640.3.jpg
+on-street-parking,On-street parking,Waiting prohibited in designated off-highway loading area during the period indicated except by permitted vehicles,Rectangular,Yellow,Grey/Black,Vehicle,Other,None,640.4,640.4.jpg
+on-street-parking,On-street parking,Entrance to a meter parking zone,Rectangular,White,Grey/Black,Zone,Other,None,663,663V5.jpg
+on-street-parking,On-street parking,Entrance to a pay and display parking zone,Rectangular,White,Grey/Black,Zone,Other,None,663,663V6.jpg
+on-street-parking,On-street parking,Entrance to a ticket parking zone,Rectangular,White,Grey/Black,Zone,Other,None,663,663V7.jpg
+on-street-parking,On-street parking,Waiting by goods vehicles over a gross weight of 5T prohibited during the periods and in the direction indicated,Rectangular,Yellow,Grey/Black,Number (Other),Vehicle (Car/Tram/Truck),Arrow,640.21,640.2A.jpg
+on-street-parking,On-street parking,End of a controlled parking zone applying to goods vehicles over a gross weight of 5T,Rectangular,White,Grey/Black,Zone,Vehicle (Car/Tram/Truck),Other,666,666.jpg
+on-street-parking,On-street parking,Entrance to a controlled parking zone applying to goods vehicles over a gross weight of 5T during the period indicated,Rectangular,White,Grey/Black,Number (Other),Vehicle (Car/Tram/Truck),Other,665,665.jpg
+on-street-parking,On-street parking,End of a controlled parking zone applying to goods vehicles over a gross weight of 7.5T,Rectangular,White,Grey/Black,Zone,Vehicle (Car/Tram/Truck),Other,666,666V.jpg
+on-street-parking,On-street parking,Entrance to a controlled parking zone applying to goods vehicles over a gross weight of 7.5T during the period indicated,Rectangular,White,Grey/Black,Number (Other),Vehicle (Car/Tram/Truck),Other,665,665V.jpg
+on-street-parking,On-street parking,Disc zone parking place where the waiting period is limited and display of a disc is required,Rectangular,White,Grey/Black,Zone,Parking [P],None,662,662.jpg
+on-street-parking,On-street parking,Entrance to voucher parking zone in operation during the period indicated,Rectangular,White,Grey/Black,Zone,Other,Other,663.1,663.1.jpg
+on-street-parking,On-street parking,No stopping on main carriageway,Circular,Blue,Red,None,Other,None,642,642.jpg
+on-street-parking,On-street parking,Hazard or prohibition extends for 7 miles,Rectangular,White,Grey/Black,Number (Distance),None,None,570,570V.jpg
+on-street-parking,On-street parking,Continuous prohibition on waiting except loading and unloading on the footway,Rectangular,Yellow,Grey/Black,Other,Other,None,637.1,637.1F.jpg
+on-street-parking,On-street parking,Continuous prohibition on waiting except loading and unloading on the verge,Rectangular,Yellow,Grey/Black,Other,Other,None,637.1,637.1V.jpg
+on-street-parking,On-street parking,Continuous prohibition on waiting except loading and unloading on verge or footway,Rectangular,Yellow,Grey/Black,Other,Other,None,637.1,637.1.jpg
+on-street-parking,On-street parking,End of restriction on stopping,Rectangular,Yellow,Grey/Black,Other,Other,None,647,647.jpg
+on-street-parking,On-street parking,No stopping during periods indicated except to pick up or set down passengers,Rectangular,Yellow,Grey/Black,Number (Other),Other,None,646,646.jpg
+on-street-parking,On-street parking,No stopping in lay-by except in emergency,Rectangular,Yellow,Grey/Black,Other,Other,None,642.3,642.3.jpg
+on-street-parking,On-street parking,No stopping for any purpose at any time,Rectangle,White,Red,Other,None,None,0,DR507.jpg
+on-street-parking,On-street parking,No stopping for any purpose during the period indicated,Rectangle,White,Red,Other,None,None,0,SR504.jpg
+on-street-parking,On-street parking,No stopping for any purpose at any time except buses,Rectangle,White,Red,Other,None,None,0,DR508.jpg
+on-street-parking,On-street parking,Entrance to red route clearway,Rectangle,White,Red,Other,None,None,0,CW701.jpg
+on-street-parking,On-street parking,Prohibition on stopping by vehicles other than taxis during the period indicated,Rectangular,Yellow,Grey/Black,Number (Other),Other,None,650.1,650.1.jpg
+on-street-parking,On-street parking,Continuous prohibition on waiting by vehicles with an exemption for taxis during the period indicated,Rectangular,Yellow,Grey/Black,Number (Other),Other,None,650.3,650.3.jpg
+on-street-parking,On-street parking,"Prohibition on waiting by vehicles other than taxis during the period indicated (upper panel), and carriage way reserved for loading and unloading of goods vehicles during the period indicated",Rectangular,Yellow,Grey/Black,Number (Other),Parking [P],None,639.12,639.1B.jpg
+on-street-parking,On-street parking,Information relating to a taxi rank for the number of taxis specified,Rectangular,Blue,White,Number (Other),None,None,857.1,857.1.jpg
+pedestrian-cycle-equestrian,"Pedestrian, cycle, equestrian",Near side light signals and instructions for pedestrians at a pedestrian facility controlled by light signals,,,,,,,4003.1,4003.1.jpg
+pedestrian-cycle-equestrian,"Pedestrian, cycle, equestrian",Light signals for pedestrians and cyclists at a Toucan crossing,,,,,,,4003.5,4003.5.jpg
+pedestrian-cycle-equestrian,"Pedestrian, cycle, equestrian",Near side light signals and instructions for pedestrians and cyclists at a Toucan crossing,,,,,,,4003.7,4003.7.jpg
+pedestrian-cycle-equestrian,"Pedestrian, cycle, equestrian",Instructions to pedestrians and cyclists above the push button control at a Toucan crossing,,,,,,,4003.6,4003.6.jpg
+pedestrian-cycle-equestrian,"Pedestrian, cycle, equestrian",Light signals for equestrian traffic,,,,,,,4003.2,4003.2.jpg
+pedestrian-cycle-equestrian,"Pedestrian, cycle, equestrian",Near side light signals and instructions for horse riders at an equestrian traffic crossing facility,,,,,,,4003.4,4003.4.jpg
+pedestrian-cycle-equestrian,"Pedestrian, cycle, equestrian",Instructions to horse riders above the push button control for an equestrian traffic crossing,,,,,,,4003.3,4003.3.jpg
+pedestrian-cycle-equestrian,"Pedestrian, cycle, equestrian",Light signals for pedestrians,,,,,,,4002.1,4002.1.jpg
+pedestrian-cycle-equestrian,"Pedestrian, cycle, equestrian",Light signal for pedestrians,,,,,,,4002.1,4002.1B.jpg
+pedestrian-cycle-equestrian,"Pedestrian, cycle, equestrian",Instructions to pedestrians above the push control at light signals,,,,,,,4003,4003.jpg
+pedestrian-cycle-equestrian,"Pedestrian, cycle, equestrian",Light signal for pedestrians,,,,,,,4002.1,4002.1A.jpg
+pedestrian-zone-signs,Pedestrian zone signs,Entry to and waiting in pedestrian zone restricted except for loading during the period indicated,Rectangular,White,Grey/Black,Zone,Vehicle (Car/Tram/Truck),Cycle/Motorcycle,618.3,618.3.jpg
+pedestrian-zone-signs,Pedestrian zone signs,Entry to pedestrian zone restricted except for permit holders,Rectangular,White,Grey/Black,Zone,Vehicle (Car/Tram/Truck),Cycle/Motorcycle,618.2,618.2.jpg
+pedestrian-zone-signs,Pedestrian zone signs,Prohibition on waiting (and loading and unloading) in a pedestrian zone during the period indicated,Rectangular,Yellow,Grey/Black,Zone,Other,None,637.2,637.2.jpg
+pedestrian-zone-signs,Pedestrian zone signs,Prohibition on waiting (and loading and unloading) in a pedestrian zone at any time,Rectangular,Yellow,Grey/Black,Zone,Other,None,637.2,637.2V.jpg
+pedestrian-zone-signs,Pedestrian zone signs,End of restrictions associated with a pedestrian zone,Rectangular,White,Grey/Black,Zone,Vehicle (Car/Tram/Truck),Cycle/Motorcycle,618.4,618.4.jpg
+regulatory-signs,Regulatory signs,Give way to traffic on the major road,Triangular,White,Red,Other,None,None,602,602.jpg
+regulatory-signs,Regulatory signs,Stop before crossing the traverse line on the road and ensure the way is clear before entering a major road,Other,Red,White,Other,None,None,601.1,601.1.jpg
+regulatory-signs,Regulatory signs,End of prohibition of goods vehicles exceeding the maximum gross weight indicated in a previous sign,Circular,White,Grey/Black,None,Vehicle (Car/Tram/Truck),None,622.2,622.2.jpg
+regulatory-signs,Regulatory signs,Articulated vehicles prohibited,Circular,White,Red,Vehicle,None,None,622.4,622.4.jpg
+regulatory-signs,Regulatory signs,No entry for vehicular traffic,Circular,Red,White,None,Other,None,616,616.jpg
+regulatory-signs,Regulatory signs,Vehicles carrying explosives prohibited,Rectangular,White,Grey/Black,Other,None,None,622.9,622.8+622.9.jpg
+regulatory-signs,Regulatory signs,Goods vehicles exceeding a gross weight of 7.5T prohibited,Circular,White,Red,Number (Other),Vehicle (Car/Tram/Truck),None,622.11,622.1A.jpg
+regulatory-signs,Regulatory signs,Horse drawn vehicles prohibited,Circular,White,Red,None,Animal,Pedestrian,622.5,622.5.jpg
+regulatory-signs,Regulatory signs,Motor vehicles prohibited,Circular,White,Red,None,Cycle/Motorcycle,Vehicle (Car/Tram/Truck),619,619.jpg
+regulatory-signs,Regulatory signs,Pedestrians prohibited,Circular,White,Red,None,Pedestrian,None,625.1,625.1.jpg
+regulatory-signs,Regulatory signs,Ridden or accompanied horses prohibited,Circular,White,Red,None,Animal,Pedestrian,622.6,622.6.jpg
+regulatory-signs,Regulatory signs,Solo motor cycles prohibited,Circular,White,Red,None,Cycle/Motorcycle,None,619.2,619.2.jpg
+regulatory-signs,Regulatory signs,Towed caravans prohibited,Circular,White,Red,None,Vehicle (Car/Tram/Truck),None,622.7,622.7.jpg
+regulatory-signs,Regulatory signs,Motor vehicles except solo motor cycles prohibited,Circular,White,Red,None,Vehicle (Car/Tram/Truck),None,619.1,619.1.jpg
+regulatory-signs,Regulatory signs,All vehicles prohibited,Rectangular,White,Grey/Black,Vehicle,None,None,618.1,618.1A.jpg
+regulatory-signs,Regulatory signs,All vehicles prohibited during the time indicated except for access,Rectangular,White,Grey/Black,Vehicle,None,None,618.1,618.1B.jpg
+regulatory-signs,Regulatory signs,All vehicles prohibited except pedal cycles being pushed by pedestrians,Circular,White,Red,None,None,None,617,617.jpg
+regulatory-signs,Regulatory signs,All vehicles prohibited from 'Play Street' during the period indicated except for access,Rectangular,White,Grey/Black,Number (Other),None,None,618,618.jpg
+regulatory-signs,Regulatory signs,Buses and cycles excluded from restriction or prohibition conveyed by associated sign,Rectangular,White,Grey/Black,Bus,None,None,954.3,954.3.jpg
+regulatory-signs,Regulatory signs,Vehicles requiring access are exempted from the prohibition conveyed by the associated sign,Rectangular,White,Grey/Black,Other,None,None,620,620.jpg
+regulatory-signs,Regulatory signs,Goods vehicles requiring to enter the road for loading or unloading of goods are exempted from the prohibition conveyed by the associated sign,Rectangular,White,Grey/Black,Other,Vehicle (Car/Tram/Truck),None,620.1,620.1.jpg
+regulatory-signs,"Regulatory signs, Traffic calming",Priority must be given to vehicles from the opposite direction,Circular,White,Red,None,Arrow,Arrow,615,615.jpg
+regulatory-signs,"Regulatory signs, Traffic calming",Priority must be given to vehicles from the opposite direction,Rectangular,White,Grey/Black,Vehicle,None,None,615.1,615.1.jpg
+regulatory-signs,Regulatory signs,No left turn for vehicular traffic,Circular,White,Red,None,Arrow,None,612,613.jpg
+regulatory-signs,Regulatory signs,No overtaking,Circular,White,Red,None,Vehicle (Car/Tram/Truck),None,632,632.jpg
+regulatory-signs,Regulatory signs,No right turn for vehicular traffic,Circular,White,Red,None,Arrow,None,612,612.jpg
+regulatory-signs,Regulatory signs,No U-turns for vehicular traffic,Circular,White,Red,None,Arrow,None,614,614.jpg
+regulatory-signs,Regulatory signs,Vehicles exceeding 32'-6'' in length indicated prohibited,Circular,White,Red,Number (Other),None,None,629,629.1.jpg
+regulatory-signs,Regulatory signs,Vehicles exceeding 6'-6'' in width indicated prohibited,Circular,White,Red,Number (Other),None,None,629,629.jpg
+regulatory-signs,Regulatory signs,Vehicles exceeding a gross weight of 18T prohibited from crossing the bridge or structure,Rectangular,White,Grey/Black,Number (Other),None,None,626.21,626.2A+627.1.jpg
+regulatory-signs,Regulatory signs,Vehicles exceeding a gross weight of 33T  prohibited from crossing the bridge or structure,Rectangular,White,Grey/Black,Number (Other),None,None,626.21,626.2AV6+627.1.jpg
+regulatory-signs,Regulatory signs,Vehicles exceeding a gross weight of 7.5T prohibited from crossing the bridge or structure,Rectangular,White,Grey/Black,Number (Other),None,None,626.21,626.2AV2.jpg
+regulatory-signs,Regulatory signs,Dual carriageway,Rectangular,White,Grey/Black,Other,None,None,608,608.jpg
+regulatory-signs,Regulatory signs,Vehicular traffic passing the sign must keep to the left of the sign,Circular,Blue,White,None,Arrow,None,610,610.jpg
+regulatory-signs,Regulatory signs,Vehicular traffic must proceed in the direction indicated by the arrow,Circular,Blue,White,None,Arrow,None,606,606.jpg
+regulatory-signs,Regulatory signs,Vehicles entering the junction must give way to traffic to vehicles coming from the right,Circular,Blue,White,Other,Arrow,None,611.1,611.1.jpg
+regulatory-signs,Regulatory signs,One-way traffic,Rectangular,White,Grey/Black,Other,None,None,607,607.jpg
+regulatory-signs,Regulatory signs,One-way traffic,Rectangular,Blue,White,None,Arrow,None,652,652.jpg
+regulatory-signs,Regulatory signs,Vehicular traffic may reach the same destination by passing either side of the sign,Circular,Blue,White,None,Arrow,None,611,611.jpg
+regulatory-signs,Regulatory signs,Vehicular traffic must proceed in the direction indicated by the arrow,Circular,Blue,White,None,Arrow,None,606,606B.jpg
+regulatory-signs,Regulatory signs,Vehicular traffic must not go beyond the sign where displayed temporarily by a constable in uniform or by a traffic warden,Circular,White,Red,Other,Other,None,633,633.jpg
+regulatory-signs,Regulatory signs,Vehicular traffic must turn ahead in the direction indicated by the arrow,Circular,Blue,White,None,Arrow,None,609,609.jpg
+regulatory-signs,Regulatory signs,Vehicular traffic must turn ahead in the direction indicated by the arrow,Circular,Blue,White,None,Arrow,None,609,609A.jpg
+regulatory-signs,Regulatory signs,Use of verge maintained in mown or ornamental condition by specified traffic prohibited,Rectangular,White,Grey/Black,Vehicle,Vehicle (Car/Tram/Truck),Cycle/Motorcycle,651,651.jpg
+regulatory-signs,Regulatory signs,Location of a weight restriction ahead with indication of an alternative route,Rectangular,Blue,White,Number (Route),Vehicle (Car/Tram/Truck),Other,818.4,818.4.jpg
+road-works-and-temporary,Road works and temporary,Description of the nature of road works,Rectangular,White,Grey/Black,Other,None,None,7001.1,7001.1.jpg
+road-works-and-temporary,Road works and temporary,Location of road works immediately ahead on route indicated,Rectangular,White,Grey/Black,Number (Route),None,None,7001.2,7001.2.jpg
+road-works-and-temporary,Road works and temporary,Temporary access to a construction or road works site,Rectangular,Red,White,Other,None,None,7301,7301T.jpg
+road-works-and-temporary,Road works and temporary,Direction to be taken by road works or construction traffic to an access to a works site 100 yards ahead,Rectangular,Red,White,Number (Distance),Arrow,None,7306,7306.jpg
+road-works-and-temporary,Road works and temporary,Temporary exit from a construction or road works site,Rectangular,Red,White,Other,None,None,7302,7302.jpg
+road-works-and-temporary,Road works and temporary,Direction to be taken by road works or construction traffic at a junction ahead,Rectangular,Red,White,Other,Arrow,None,7304,7304.jpg
+road-works-and-temporary,Road works and temporary,Direction to be taken by road works or construction traffic at a junction or works entrance,Rectangular,Red,White,Other,Arrow,None,7305,7305.jpg
+road-works-and-temporary,Road works and temporary,Exit from a works site 200 yards ahead,Rectangular,Red,White,Number (Distance),None,None,7307,7307.jpg
+road-works-and-temporary,Road works and temporary,Temporary entrance to a construction or road works site,Rectangular,Red,White,Other,None,None,7301,7301.jpg
+road-works-and-temporary,Road works and temporary,Dates when road works are to take place overnight and delays are to be expected,Rectangular,Yellow,Grey/Black,Number (Other),None,None,7002.1,7002.1.jpg
+road-works-and-temporary,Road works and temporary,Vehicular traffic must not proceed into a length of road where one-way working is temporarily necessary,Circular,Red,White,Other,None,None,7023,7023.jpg
+road-works-and-temporary,Road works and temporary,Vehicular traffic may proceed into a length of road where one-way working is temporarily necessary,Circular,Green,White,Other,None,None,7024,7024.jpg
+road-works-and-temporary,Road works and temporary,Vehicles may not pass the temporary traffic signals when the red light is shown,Rectangular,Red,White,Other,None,None,7011,7011.jpg
+road-works-and-temporary,Road works and temporary,Vehicles may not pass the temporary traffic signals when the red light is shown at a junction,Rectangular,Red,White,Number (Other),None,None,7011.1,7011.1.jpg
+road-works-and-temporary,Road works and temporary,Traffic joining a length of road being controlled by portable traffic signals is not controlled by these signals,Rectangular,Red,White,Other,None,None,7022,7022.jpg
+road-works-and-temporary,Road works and temporary,Loose chippings on road ahead,Triangular,White,Red,None,Other,Other,7009,7009.jpg
+road-works-and-temporary,Road works and temporary,Maximum speed of 20 miles per hour advised at a bend or other hazard,Rectangular,White,Grey/Black,Number (Other),None,None,513.2,513.2V20.jpg
+road-works-and-temporary,Road works and temporary,Maximum speed of 30 miles per hour advised at a bend or other hazard,Rectangular,Yellow,Grey/Black,Number (Other),None,None,7294,7294.jpg
+road-works-and-temporary,Road works and temporary,Temporary sudden change in level of carriageway surface,Rectangular,Red,White,Other,None,None,7013,7013.jpg
+road-works-and-temporary,Road works and temporary,Traffic on road ahead is being controlled by portable light signals,Rectangular,Red,White,Other,Arrow,Arrow,7021,7021.jpg
+road-works-and-temporary,Road works and temporary,Additional traffic lane available ahead as part of temporary traffic management scheme,Rectangular,Yellow,Grey/Black,None,Arrow,None,7255,7255.jpg
+road-works-and-temporary,Road works and temporary,Centre lane of a three lane single carriageway road closed,Rectangular,Yellow,Grey/Black,None,Arrow,Other,7206,7206.jpg
+road-works-and-temporary,Road works and temporary,Instructions for drivers of wide loads on how to telephone for assistance,Rectangular,Yellow,Grey/Black,Other,Other,None,7293,7293.jpg
+road-works-and-temporary,Road works and temporary,Information on breakdown recovery services during road works,Rectangular,Yellow,Grey/Black,Other,Vehicle (Car/Tram/Truck),None,7291,7291.jpg
+road-works-and-temporary,Road works and temporary,Sharp bends ahead where traffic is diverted onto a temporary road for a short distance,Rectangular,Yellow,Grey/Black,None,Arrow,None,7221,7221.jpg
+road-works-and-temporary,Road works and temporary,Instructions to drivers of wide loads to follow a diversion to avoid the road works ahead,Rectangular,Yellow,Grey/Black,Number (Other),None,None,7292,7292.jpg
+road-works-and-temporary,Road works and temporary,Zebra or signal controlled crossing temporarily out of use,Rectangular,Red,White,Other,None,None,7016,7016.jpg
+road-works-and-temporary,Road works and temporary,Cyclists to dismount and use the adjacent footway,Rectangular,Red,White,Cycle,None,None,7018.1,7018.1.jpg
+road-works-and-temporary,Road works and temporary,Nature of work being done by vehicle working on the highway,Rectangular,Yellow,Grey/Black,Other,None,None,7404,7404.jpg
+road-works-and-temporary,Road works and temporary,Temporary absence of hard shoulder for 400 yards,Rectangular,Red,White,Number (Distance),None,None,7015,7015.jpg
+road-works-and-temporary,Road works and temporary,Temporary absence of road markings for 2 miles,Rectangular,Red,White,Number (Distance),None,None,7012,7012.jpg
+road-works-and-temporary,Road works and temporary,Direction of temporary route for pedestrians,Rectangular,Red,White,Other,Arrow,None,7018,7018.jpg
+road-works-and-temporary,Road works and temporary,Direction in which pedestrians should look for approaching traffic,Rectangular,Red,White,Other,None,None,7017,7017.jpg
+road-works-and-temporary,Road works and temporary,Variable message sign ahead not in use or being tested,Rectangular,Red,White,Other,None,None,7020,7020.jpg
+road-works-and-temporary,Road works and temporary,Vehicular traffic should proceed slowly owing to temporary hazard resulting from wet tar on the road,Rectangular,Red,White,Other,None,None,7010.1,7010.1.jpg
+road-works-and-temporary,Road works and temporary,Vehicular traffic should not proceed beyond the sign when displayed during works on or near the road,Circular,Yellow,Red,Other,Other,None,7031,7031.jpg
+road-works-and-temporary,Road works and temporary,Light signal not in use,Rectangular,Grey/Black,White,None,Other,None,7019,7019.jpg
+road-works-and-temporary,Road works and temporary,Vehicular traffic should proceed slowly owing to workforce in the road,Rectangular,Red,White,Other,None,None,7001.3,7001.3.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,The number of a route for pedal cycles forming part of a regional cycle route network,Rectangular,Blue,White,Number (Route),None,None,2602.3,2602.3.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,The number of a route for pedal cycles forming part of a national cycle route network,Rectangular,Blue,White,Number (Route),Cycle/Motorcycle,None,2602.2,2602.3V.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Route for pedal cycles across an entry slip road at a junction ahead,Rectangular,Blue,White,Other,Cycle/Motorcycle,Arrow,2601.2,2601.2.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Direction of a numbered route for pedal cycles forming part of a national cycle network at a junction,Rectangular,Blue,White,Number (Route),Cycle/Motorcycle,Arrow,2601.1,2601.1.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Direction of route to a tourist attraction for pedestrians,Rectangular,Brown,White,Other,Arrow,Pedestrian,2608,2608.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Number route for pedal cycles forming part of a national cycle route network,Rectangular,Blue,White,Number (Route),Cycle/Motorcycle,None,2602.2,2602.2.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Junction ahead leading to a parking place for pedal cycles,Rectangular,Blue,White,None,Parking [P],Cycle/Motorcycle,2603,2603.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Direction and distance to a free parking place for pedal cycles,Rectangular,Blue,White,Number (Distance),Parking [P],Cycle/Motorcycle,2604,2604R.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Direction of route to railway and London Underground station for pedestrians and pedal cycles,Rectangular,Blue,White,None,Cycle/Motorcycle,TFL Tube / Rail,2606,2606.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Direction of route to railway station for pedestrians and pedal cycles,Rectangular,Blue,White,None,Cycle/Motorcycle,TFL Tube / Rail,2606,2606V.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Direction to or along a public footpath,Rectangular,Brown,White,Other,Pedestrian,Arrow,2610,2610V.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Direction of route to destination shown for pedestrians,Rectangular,Blue,White,Other,Pedestrian,Arrow,2605,2605.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Distance and direction of route to destination shown for pedestrians,Rectangular,Blue,White,Other,Pedestrian,Arrow,2605,2605V.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Direction of route to destination shown for pedestrians,Rectangular,Grey/Black,White,Other,Pedestrian,None,2607,2607.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Direction of route to destination shown for pedestrians,Rectangular,Brown,White,Other,Pedestrian,Arrow,2610,2607V.jpg
+signs-for-cyclists-and-pedestrians,Signs for cyclists and pedestrians,Direction along a footpath indicated by waymarks,Rectangular,Green,White,None,Arrow,None,2610.2,2610.2.jpg
+speed-limit-signs,"Speed limit signs, Traffic calming",Entrance to a 20 miles per hour speed limit zone,Rectangular,White,Grey/Black,Zone,Other,Other,674,674.jpg
+speed-limit-signs,Speed limit signs,Maximum speed limit of 20 miles per hour,Circular,White,Red,Number (Other),None,None,670,670V20.jpg
+speed-limit-signs,Speed limit signs,Maximum speed limit of 30 miles per hour,Circular,White,Red,Number (Other),None,None,670,670V30.jpg
+speed-limit-signs,Speed limit signs,Maximum speed limit of 40 miles per hour,Circular,White,Red,Number (Other),None,None,670,670.jpg
+speed-limit-signs,Speed limit signs,Maximum speed limit of 50 miles per hour,Circular,White,Red,Number (Other),None,None,670,670V50.jpg
+speed-limit-signs,Speed limit signs,Maximum speed limit of 60 miles per hour,Circular,White,Red,Number (Other),None,None,670,670V60.jpg
+speed-limit-signs,"Speed limit signs, Traffic calming",Start of a 30 miles per hour speed limit at the boundary of a town or village,Rectangular,White,Grey/Black,Zone,Other,Other,675,2402.1+670V30.jpg
+speed-limit-signs,Speed limit signs,National speed limits apply,Circular,White,Grey/Black,None,Other,None,671,671.jpg
+speed-limit-signs,"Speed limit signs, Motorway signs","Start of motorway regulations, including the national speed limit",Rectangular,Blue,White,Number (Route),Other,None,2901,2901.jpg
+speed-limit-signs,Speed limit signs,Length of road where two cameras are used to measure the average speed of a vehicle between two points,Rectangular,White,Grey/Black,Other,Other,None,878,878.1.jpg
+speed-limit-signs,Speed limit signs,End of 30 miles per hour minimum speed limit,Circular,Blue,White,Number (Other),None,None,673,673.jpg
+speed-limit-signs,Speed limit signs,End of 40 miles per hour minimum speed limit,Circular,Blue,White,Number (Other),None,None,673,673v40.jpg
+speed-limit-signs,"Speed limit signs, On-street parking, Road works and temporary",End of restriction or prohibition conveyed by an associated sign,Rectangular,White,Grey/Black,Other,None,None,645,645.jpg
+speed-limit-signs,Speed limit signs,Maximum speed of 30 miles per hour advised at a bend or other hazard,Rectangular,White,Grey/Black,Number (Other),None,None,513.2,513.2.jpg
+speed-limit-signs,Speed limit signs,Minimum speed limit of 30 miles per hour,Circular,Blue,White,Number (Other),None,None,672,672.jpg
+speed-limit-signs,Speed limit signs,Minimum speed limit of 40 miles per hour,Circular,Blue,White,Number (Other),None,None,672,672v40.jpg
+speed-limit-signs,Speed limit signs,Commencement point of a newly imposed 30 miles per hour speed limit which is contiguous to an existing 30 miles per hour speed limit,Rectangular,Red,White,Number (Other),None,None,7032,7032.jpg
+speed-limit-signs,"Speed limit signs, Road works and temporary",Road works or temporary obstruction of the carriageway ahead,Triangular,White,Red,None,Pedestrian,None,7001,7001.jpg
+speed-limit-signs,Speed limit signs,Reminder to drivers that traffic enforcement cameras are in use,Rectangular,White,Grey/Black,None,Other,None,879,879.jpg
+speed-limit-signs,Speed limit signs,Speed camera ahead and reminder of 30 miles per hour speed limit,Rectangular,Blue,White,Number (Other),Other,Other,880,880.jpg
+speed-limit-signs,Speed limit signs,Area in which cameras are used to enforce the speed limit regulations,Rectangular,White,Grey/Black,Other,Other,None,878,878.jpg
+speed-limit-signs,Speed limit signs,End of 20 miles per hour zone and start of 30 miles per hour zone,Rectangular,White,Grey/Black,Zone,Other,Other,675,675.jpg
+tidal-flow-lane-control,Tidal flow lane control,Indicates lane open for vehicular traffic,,,,,,,5001.2,5001.2.jpg
+tidal-flow-lane-control,Tidal flow lane control,Lane control signal indicating that vehicles may not proceed along the lane directly beneath the signal,,,,,,,5003.1,5003.1.jpg
+tidal-flow-lane-control,Tidal flow lane control,Lane closed ahead vehicles must move to the next lane on the left,,,,,,,5005.1,5005.1.jpg
+tidal-flow-lane-control,Tidal flow lane control,End of a system of lane control light signals,Rectangular,Blue,White,Other,None,None,5015,5015.jpg
+tidal-flow-lane-control,Tidal flow lane control,Lane open to vehicular traffic,,,,,,,5001.1,5001.1.jpg
+tidal-flow-lane-control,Tidal flow lane control,Direction of a system of lane control light signals,Rectangular,Blue,White,Other,Arrow,Arrow,5013,5013.jpg
+tidal-flow-lane-control,Tidal flow lane control,Distance and direction of a system of lane control light signals,Rectangular,Blue,White,Number (Distance),Arrow,None,5014,5014.jpg
+tidal-flow-lane-control,Tidal flow lane control,System of lane control ahead,Rectangular,Blue,White,Other,None,None,5012,5012.jpg
+tidal-flow-lane-control,Tidal flow lane control,Lane control signals in operation on the road extending from the junction ahead,Rectangular,Blue,White,Other,Arrow,Other,5011,5011.jpg
+tidal-flow-lane-control,Tidal flow lane control,Lane control signals in operation on the road,Rectangular,Blue,White,Other,Arrow,Other,5010,5010.jpg
+tidal-flow-lane-control,Tidal flow lane control,Lane control signal indicating that vehicles may not proceed along the lane directly beneath the signal,,,,,,,5003,5003.jpg
+tidal-flow-lane-control,Tidal flow lane control,Lane closed ahead vehicles must move to the next lane on the left,,,,,,,5005,5005.jpg
+traffic-calming,Traffic calming,Road hump to the right and at 20 yards,Rectangular,White,Grey/Black,Number (Distance),Arrow,None,557.4,557.4.jpg
+traffic-calming,Traffic calming,Road humps ahead to the right for 300 yards,Rectangular,White,Grey/Black,Number (Distance),Arrow,None,557.3,557.3.jpg
+traffic-calming,Traffic calming,Road humps ahead for half a mile,Rectangular,White,Grey/Black,Number (Distance),None,None,557.2,557.2.jpg
+traffic-calming,Traffic calming,Road hump or series of road humps ahead,Triangular,White,Red,None,Other,None,557.1,557.1.jpg
+traffic-calming,Traffic calming,Start of area with traffic calming features,Rectangular,Blue,White,Other,None,None,883,883.jpg
+traffic-calming,Traffic calming,Crossing on road hump ahead,Rectangular,White,Grey/Black,Other,None,None,547.8,547.8.jpg
+traffic-calming,Traffic calming,Traffic has priority over vehicles from the opposite direction,Rectangular,Blue,White,None,Arrow,Arrow,811,811.jpg
+traffic-calming,Traffic calming,Traffic has priority over vehicles from the opposite direction,Rectangular,White,Grey/Black,Vehicle,None,None,811.1,811.1.jpg
+traffic-calming,Traffic calming,Start of a designated home zone,Rectangular,Blue,White,Zone,Pedestrian,Vehicle (Car/Tram/Truck),881,881A.jpg
+traffic-calming,Traffic calming,Start of a designated quiet lane in England,Rectangular,Green,White,Other,Pedestrian,Cycle/Motorcycle,884,884V.jpg
+traffic-calming,Traffic calming,End of designated quiet lane in England,Rectangular,Green,White,Other,Pedestrian,Cycle/Motorcycle,885,885.jpg
+traffic-calming,Traffic calming,Start of a designated quiet lane in England,Rectangular,Green,White,Other,Pedestrian,Cycle/Motorcycle,884,884.jpg
+tram-signs,"Tram signs, Bus and cycle signs",Explanatory plate for tramcar and bus and cycle only route signs,Rectangular,White,Grey/Black,Other,None,None,953.2,953.2.jpg
+tram-signs,Tram signs,Route for use by tramcars only,Circular,Blue,White,None,Vehicle (Car/Tram/Truck),None,953.1,953.1.jpg
+tram-signs,Tram signs,Open tramway level crossing without light signals,Rectangular,White,Grey/Black,None,Vehicle (Car/Tram/Truck),None,778.1,778.1.jpg
+tram-signs,Tram signs,Tramcars crossing ahead,Triangular,White,Red,None,Vehicle (Car/Tram/Truck),None,772,772.jpg
+tram-signs,Tram signs,Warning for pedestrians to look out for tramway traffic approaching from both directions,Rectangular,Blue,White,Other,Vehicle (Car/Tram/Truck),None,963.3,963.3.jpg
+tram-signs,Tram signs,Warning for pedestrians to look out for tramway traffic approaching from the left,Rectangular,Blue,White,Other,Vehicle (Car/Tram/Truck),None,963.3,963.3L.jpg
+tram-signs,Tram signs,Warning for pedestrians to look out for tramway traffic approaching from the right,Rectangular,Blue,White,Other,Vehicle (Car/Tram/Truck),None,963.3,963.3R.jpg
+warning-signs,Warning signs,Adverse camber on a bend or roundabout,Rectangular,White,Grey/Black,Other,None,None,513.1,513.1.jpg
+warning-signs,Warning signs,Bend ahead to the left,Triangular,White,Red,None,Arrow,None,512,512L.jpg
+warning-signs,"Warning signs, Speed limit signs",Bend ahead to the right,Triangular,White,Red,None,Arrow,None,512,512.jpg
+warning-signs,Warning signs,Crossroads ahead,Triangular,White,Red,None,Arrow,None,504.1,504.1.jpg
+warning-signs,Warning signs,Crossroads ahead,Triangular,White,Red,None,Arrow,None,504.1,504.1R.jpg
+warning-signs,Warning signs,Crossroads ahead,Triangular,White,Red,None,Arrow,None,504.1,504.1L.jpg
+warning-signs,Warning signs,"Double bend or series of bends ahead, first to the left",Triangular,White,Red,None,Arrow,None,513,513.jpg
+warning-signs,Warning signs,"Double bend or series of bends ahead, first to the right",Triangular,White,Red,None,Arrow,None,513,513R.jpg
+warning-signs,Warning signs,Junction ahead controlled by a STOP or GIVE WAY sign,Triangular,White,Red,None,None,None,501,501.jpg
+warning-signs,Warning signs,50 yards to junction ahead controlled by a GIVE WAY sign,Rectangular,White,Grey/Black,Number (Distance),None,None,503,503.jpg
+warning-signs,Warning signs,Junction on left bend ahead,Triangular,White,Red,None,Arrow,None,512.2,512.2L.jpg
+warning-signs,Warning signs,Junction on right bend ahead,Triangular,White,Red,None,Arrow,None,512.1,512.1.jpg
+warning-signs,Warning signs,Junction on left bend ahead,Triangular,White,Red,None,Arrow,None,512.1,512.1L.jpg
+warning-signs,Warning signs,Junction on right bend ahead,Triangular,White,Red,None,Arrow,None,512.2,512.2.jpg
+warning-signs,Warning signs,Traffic signals ahead that only operate at certain times,Rectangular,White,Grey/Black,Other,None,None,543.1,543.1.jpg
+warning-signs,Warning signs,Roundabout,Triangular,White,Red,None,Arrow,None,510,510.jpg
+warning-signs,Warning signs,Side road ahead (right),Triangular,White,Red,None,Arrow,None,506.1,506.1.jpg
+warning-signs,Warning signs,Side road ahead (left),Triangular,White,Red,None,Arrow,None,506.1,506.1L.jpg
+warning-signs,Warning signs,Side road ahead (left),Triangular,White,Red,None,Arrow,None,506.1,506.1LL.jpg
+warning-signs,Warning signs,Side road ahead (right),Triangular,White,Red,None,Arrow,None,506.1,506.1RR.jpg
+warning-signs,Warning signs,Staggered junction ahead (left/right),Triangular,White,Red,None,Arrow,Other,507.1,507.1.jpg
+warning-signs,Warning signs,100 yards to a junction ahead controlled by a STOP sign,Rectangular,White,Grey/Black,Number (Distance),None,None,502,502.jpg
+warning-signs,Warning signs,T-junction ahead (left),Triangular,White,Red,None,Arrow,None,505.1,505.1.jpg
+warning-signs,Warning signs,T-junction ahead (right),Triangular,White,Red,None,Arrow,None,505.1,505.1R.jpg
+warning-signs,Warning signs,Traffic merges ahead from the left,Triangular,White,Red,None,Arrow,Other,508.1,508.1.jpg
+warning-signs,Warning signs,Traffic merges ahead onto main carriageway from the left,Triangular,White,Red,None,Arrow,Other,509.1,509.1.jpg
+warning-signs,Warning signs,Traffic signals ahead,Triangular,White,Red,None,Other,Other,543,543.jpg
+warning-signs,Warning signs,Dual carriageway ends ahead,Triangular,White,Red,None,Other,None,520,520.jpg
+warning-signs,Warning signs,Large vehicles likely to be in middle of road because of narrowness of carriageway,Rectangular,White,Grey/Black,Vehicle,None,None,575,575.jpg
+warning-signs,Warning signs,Reduction in speed necessary for a change in road layout ahead,Rectangular,Red,White,Other,None,None,511,511.jpg
+warning-signs,"Warning signs, Traffic calming",Road narrows on left ahead,Triangular,White,Red,None,Other,None,517,517L.jpg
+warning-signs,"Warning signs, Traffic calming",Road narrows on both sides ahead,Triangular,White,Red,None,Other,None,516,516.jpg
+warning-signs,"Warning signs, Traffic calming",Road narrows on right ahead,Triangular,White,Red,None,Other,None,517,517.jpg
+warning-signs,Warning signs,Convergence of traffic to a single file in each direction,Rectangular,White,Grey/Black,Other,None,None,518,518.jpg
+warning-signs,Warning signs,Road only wide enough for one line of vehicles,Rectangular,White,Grey/Black,Other,None,None,519,519.jpg
+warning-signs,Warning signs,Two-way traffic,Triangular,White,Red,None,Arrow,Arrow,521,521.jpg
+warning-signs,Warning signs,Two-way traffic on route crossing ahead,Triangular,White,Red,None,Arrow,Arrow,522,522.jpg
+warning-signs,Warning signs,Distance and direction to hazard,Rectangular,White,Grey/Black,Number (Distance),Arrow,None,573,573.jpg
+warning-signs,"Warning signs, Road works and temporary",400 yards ahead to hazard,Rectangular,White,Grey/Black,Number (Distance),None,None,572,572.jpg
+warning-signs,Warning signs,Direction to escape lane to the left for vehicles unable to stop on a steep hill,Rectangular,Blue,White,Other,Arrow,Other,817.2,817.2LL.jpg
+warning-signs,Warning signs,Direction to escape lane ahead for vehicles unable to stop on a steep hill,Rectangular,Blue,White,Other,Arrow,Other,817.2,817.2LA.jpg
+warning-signs,Warning signs,200 yards to escape lane to the left for vehicles unable to stop on a steep hill,Rectangular,Blue,White,Other,Arrow,Other,817.2,817.2Lyd200.jpg
+warning-signs,Warning signs,200 yards to escape lane ahead for vehicles unable to stop on a steep hill,Rectangular,Blue,White,Other,Arrow,Other,817.2,817.2yd200.jpg
+warning-signs,Warning signs,Escape lane ahead for vehicles unable to stop on a steep hill,Rectangular,Blue,White,Other,Arrow,Other,817.2,817.2.jpg
+warning-signs,Warning signs,Escape lane to left for vehicles unable to stop on a steep hill,Rectangular,Blue,White,Other,Arrow,Other,817.2,817.2L.jpg
+warning-signs,Warning signs,Flood warning sign,Triangular,White,Red,Other,None,None,554,554F.jpg
+warning-signs,"Warning signs, On-street parking",Hazard or prohibition extends for 2 miles,Rectangular,White,Grey/Black,Number (Distance),None,None,570,570.jpg
+warning-signs,Warning signs,Ford warning sign,Triangular,White,Red,Other,None,None,554,554.jpg
+warning-signs,Warning signs,Gate warning sign,Triangular,White,Red,Other,None,None,554,554G.jpg
+warning-signs,Warning signs,Hump bridge ahead,Triangular,White,Red,Other,Other,None,528,528.jpg
+warning-signs,Warning signs,Drivers should keep in low gear for steep hill or tight bend,Rectangular,White,Grey/Black,Other,None,None,526,526.jpg
+warning-signs,Warning signs,Drivers should keep in low gear for 1.5 miles,Rectangular,White,Grey/Black,Number (Distance),None,None,527,527.jpg
+warning-signs,Warning signs,Drivers should engage low gear for steep hill,Rectangular,White,Grey/Black,Other,None,None,525,525.jpg
+warning-signs,Warning signs,No smoking warning,Triangular,White,Red,Other,None,None,554,554N.jpg
+warning-signs,Warning signs,Opening or swing bridge ahead,Triangular,White,Red,None,Other,None,529,529.jpg
+warning-signs,Warning signs,Quayside or river bank ahead,Triangular,White,Red,None,Vehicle (Car/Tram/Truck),Other,555,555.jpg
+warning-signs,Warning signs,Side winds likely ahead,Triangular,White,Red,None,Other,None,581,581.jpg
+warning-signs,Warning signs,Slippery road ahead,Triangular,White,Red,None,Vehicle (Car/Tram/Truck),None,557,557.jpg
+warning-signs,Warning signs,Soft verges for 2 miles,Rectangular,White,Grey/Black,Number (Distance),None,None,556.2,556.2.jpg
+warning-signs,Warning signs,Soft verges ahead,Triangular,White,Red,None,Vehicle (Car/Tram/Truck),Other,556.1,556.1.jpg
+warning-signs,Warning signs,Steep hill downwards ahead (10%),Triangular,White,Red,Number (Other),Other,None,523.1,523.1.jpg
+warning-signs,Warning signs,Steep hill upwards ahead (20%),Triangular,White,Red,Number (Other),Other,None,524.1,524.1.jpg
+warning-signs,Warning signs,Risk of brake failure after crossing a ford or before descending a steep gradient,Triangular,White,Red,Other,None,None,554.1,554.1.jpg
+warning-signs,Warning signs,Tunnel ahead,Triangular,White,Red,None,Other,None,529.1,529.1.jpg
+warning-signs,Warning signs,Uneven road ahead,Triangular,White,Red,None,Other,None,556,556.jpg
+warning-signs,Warning signs,Water course alongside road ahead,Triangular,White,Red,Other,Vehicle (Car/Tram/Truck),Other,555.1,555.1.jpg
+warning-signs,Warning signs,Blasting danger ahead,Rectangular,White,Grey/Black,Other,None,None,563,563V2.jpg
+warning-signs,Warning signs,Blind pedestrians likely to cross road ahead,Rectangular,White,Grey/Black,Other,None,None,547.4,547.4B.jpg
+warning-signs,Warning signs,Blind summit ahead,Rectangular,White,Grey/Black,Other,None,None,563,563V3.jpg
+warning-signs,Warning signs,Disabled pedestrians likely to cross road ahead,Rectangular,White,Grey/Black,Other,None,None,547.4,547.4.jpg
+warning-signs,Warning signs,Dust cloud danger ahead,Rectangular,White,Grey/Black,Other,None,None,563,563V5.jpg
+warning-signs,"Warning signs, Miscellaneous",Other danger ahead. Plate beneath indicates the nature of the hazard,Triangular,White,Red,None,Other,None,562,562.jpg
+warning-signs,Warning signs,Fallen tree ahead,Rectangular,White,Grey/Black,Other,None,None,563,563V6.jpg
+warning-signs,Warning signs,Warning of light signals in the vicinity of a fire station,Rectangular,White,Grey/Black,Other,Other,None,563.1,563.1.jpg
+warning-signs,Warning signs,Frail or disabled pedestrians likely to cross road ahead,Triangular,White,Red,None,Pedestrian,None,544.2,544.2.jpg
+warning-signs,Warning signs,Frost damage ahead,Rectangular,White,Grey/Black,Other,None,None,563,563V8.jpg
+warning-signs,Warning signs,Gliders likely ahead,Rectangular,White,Grey/Black,Other,None,None,558.2,558.2.jpg
+warning-signs,Warning signs,Hidden dip ahead,Rectangular,White,Grey/Black,Other,None,None,563,563V9.jpg
+warning-signs,Warning signs,Ice ahead,Rectangular,White,Grey/Black,Other,None,None,554.3,554.3.jpg
+warning-signs,Warning signs,Risk of ice or packed snow ahead,Triangular,White,Red,None,Other,Other,554.2,554.2.jpg
+warning-signs,Warning signs,Low flying aircraft or sudden aircraft noise likely ahead,Triangular,White,Red,None,Vehicle (Car/Tram/Truck),None,558,558.jpg
+warning-signs,Warning signs,Low flying helicopters or sudden helicopter noise likely ahead,Triangular,White,Red,None,Vehicle (Car/Tram/Truck),None,558.1,558.1.jpg
+warning-signs,Warning signs,Slow moving military vehicles likely to be crossing or in the road,Triangular,White,Red,None,Vehicle (Car/Tram/Truck),None,582,582.jpg
+warning-signs,Warning signs,No footway for 400 yards,Rectangular,White,Grey/Black,Number (Distance),None,None,547.3,547.3.jpg
+warning-signs,Warning signs,Overhead cable repairs ahead,Rectangular,White,Grey/Black,Other,None,None,563,563V10.jpg
+warning-signs,Warning signs,Pedestrians in road ahead,Triangular,White,Red,None,Pedestrian,None,544.1,544.1.jpg
+warning-signs,Warning signs,Traffic queues likely on road ahead,Rectangular,White,Grey/Black,Other,None,None,584.1,584.1.jpg
+warning-signs,Warning signs,Traffic queues likely on road ahead,Triangular,White,Red,None,Vehicle (Car/Tram/Truck),None,584,584.jpg
+warning-signs,Warning signs,Risk of falling or fallen rocks ahead,Triangular,White,Red,None,Other,None,559,559.jpg
+warning-signs,Warning signs,Road liable to flooding ahead,Rectangular,White,Grey/Black,Other,None,None,563,563V12.jpg
+warning-signs,Warning signs,Distance over which slow moving vehicles likely to be encountered ahead,Rectangular,White,Grey/Black,Number (Distance),None,None,583.1,583.1.jpg
+warning-signs,Warning signs,Slow moving vehicles likely on incline ahead,Triangular,White,Red,None,Vehicle (Car/Tram/Truck),None,583,583.jpg
+warning-signs,Warning signs,Smoke danger ahead,Rectangular,White,Grey/Black,Other,None,None,563,563V14.jpg
+warning-signs,Warning signs,Snowdrifts ahead,Rectangular,White,Grey/Black,Other,None,None,554.3,554.3A.jpg
+warning-signs,"Warning signs, Traffic calming",Zebra crossing ahead,Triangular,White,Red,None,Pedestrian,None,544,544.jpg
+warning-signs,Warning signs,Accompanied horses or ponies likely to be in or crossing road ahead,Triangular,White,Red,None,Animal,Pedestrian,550.1,550.1.jpg
+warning-signs,Warning signs,Area infected by animal disease ahead,Rectangular,Red,White,Other,None,None,574,574.jpg
+warning-signs,Warning signs,Blind children likely to cross road ahead,Rectangular,White,Grey/Black,Other,None,None,547.7,547.7VB.jpg
+warning-signs,Warning signs,Children going to or from school or playground ahead,Triangular,White,Red,None,Pedestrian,None,545,545.jpg
+warning-signs,Warning signs,Deaf children likely to cross road ahead,Rectangular,White,Grey/Black,Other,None,None,547.7,547.7VD.jpg
+warning-signs,Warning signs,Disabled children likely to cross road ahead,Rectangular,White,Grey/Black,Other,None,None,547.7,547.7.jpg
+warning-signs,Warning signs,Agricultural vehicles likely to be in road ahead,Rectangular,White,Grey/Black,Other,None,None,553.2,553.2.jpg
+warning-signs,Warning signs,Horse drawn vehicles likely to be in road ahead,Triangular,White,Red,None,Animal,Pedestrian,550.2,550.2.jpg
+warning-signs,Warning signs,Migratory toad crossing ahead,Triangular,White,Red,None,Animal,None,551.1,551.1.jpg
+warning-signs,Warning signs,School crossing patrol ahead,Rectangular,White,Grey/Black,Other,None,None,547.1,547.1.jpg
+warning-signs,Warning signs,Children's playground ahead,Rectangular,White,Grey/Black,Other,None,None,547.2,547.2.jpg
+warning-signs,Warning signs,School ahead,Rectangular,White,Grey/Black,Other,None,None,546,546.jpg
+warning-signs,Warning signs,Sheep likely to be in road ahead,Triangular,White,Red,None,Animal,None,549,549.jpg
+warning-signs,Warning signs,Agricultural vehicles likely to be in road ahead,Triangular,White,Red,None,Vehicle (Car/Tram/Truck),None,553.1,553.1.jpg
+warning-signs,Warning signs,Wild animals likely to be in road ahead,Triangular,White,Red,None,Animal,None,551,551.jpg
+warning-signs,Warning signs,Wild fowl likely to be in road ahead,Triangular,White,Red,None,Animal,None,551.2,551.2.jpg
+warning-signs,Warning signs,Wild horses or ponies likely to be in road ahead,Triangular,White,Red,None,Animal,None,550,550.jpg
+warning-signs,Warning signs,Cattle grid ahead,Triangular,White,Red,Other,None,None,552,552.jpg
+warning-signs,Warning signs,Cattle likely to be in road ahead,Triangular,White,Red,None,Animal,None,548,548.jpg
+warning-signs,Warning signs,By-pass of cattle grid for horse drawn vehicles,Rectangular,White,Grey/Black,Vehicle,Arrow,None,553,553.jpg
+warning-signs,Warning signs,Supervised cattle crossing 200 yards ahead,Rectangular,White,Grey/Black,Number (Distance),None,None,548.1,548.1.jpg
+warning-signs,Warning signs,Accident ahead,Rectangular,White,Grey/Black,Other,None,None,563,563.jpg
